@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "sync": "node scripts/sync.mjs"
+    "sync": "node scripts/sync.mjs",
+    "sync:connections": "node scripts/sync-connections.mjs"
   },
   "dependencies": {
     "next": "^16.4.6",

@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation'
 import { getSite, getBlocks } from '@/lib/arena'
 import { SITE, when, count, threadsFor } from '@/lib/shared'
 import Blocks from '@/components/Blocks'
+import Note from '@/components/Note'
+import Elsewhere from '@/components/Elsewhere'
 
 export const revalidate = 3600
 
@@ -44,10 +46,12 @@ export default async function Channel({ params }) {
         </Link>
         <h2>{channel.t.toLowerCase()}</h2>
         {channel.d && <p>{channel.d}</p>}
+        <Note text={site.notes[channel.s]} />
         <div className="meta">
           <span>{count(channel.n)}</span>
           <span>started {when(channel.c)}</span>
           <span>updated {when(channel.u)}</span>
+          <Link href={'/drift?c=' + channel.s}>drift through it</Link>
           <a href={SITE + '/' + site.user + '/' + channel.s} target="_blank" rel="noopener">
             open on are.na ↗
           </a>
@@ -61,6 +65,7 @@ export default async function Channel({ params }) {
             ))}
           </div>
         )}
+        <Elsewhere list={site.outsideBy[channel.s]} />
       </header>
       <Blocks slug={channel.s} initial={first} />
     </article>

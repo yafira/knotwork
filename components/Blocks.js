@@ -32,10 +32,11 @@ function Block({ b }) {
       ) : (
         b.text && <div className="text">{b.text}</div>
       )}
-      {(b.title || b.host) && (
+      {(b.title || b.host || b.also > 1) && (
         <div className="cap">
           {b.title && <b>{b.title}</b>}
           {b.host && <span>{b.host}</span>}
+          {b.also > 1 && <i className="also">in {b.also} channels</i>}
         </div>
       )}
     </a>

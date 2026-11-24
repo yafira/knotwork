@@ -13,6 +13,9 @@ export default function Nav() {
       <Link href="/index" aria-current={path === '/index' || path.startsWith('/c/') ? 'page' : undefined}>
         index
       </Link>
+      <Link href="/drift" aria-current={path === '/drift' ? 'page' : undefined}>
+        drift
+      </Link>
     </nav>
   )
 }

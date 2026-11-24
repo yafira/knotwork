@@ -105,6 +105,21 @@ main { flex: 1 1 0; min-height: 0; position: relative; overflow-y: auto; }
 .legend .key.pink { border-top-color: var(--thread); }
 .legend .dot { display: inline-block; width: 5px; height: 5px; margin: 0 18px 0 11px; vertical-align: middle; border-radius: 50%; background: var(--muted); }
 .legend .dot.big { width: 10px; height: 10px; margin: 0 16px 0 8px; background: var(--ink); }
+.legend .dot.hollow { width: 9px; height: 9px; margin: 0 16px 0 9px; background: var(--bg); border: 1.3px solid var(--muted); }
+.legend .others {
+  pointer-events: auto;
+  align-self: flex-start;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.legend .others em { margin-left: 8px; font-style: normal; color: var(--thread); }
+.legend .others[aria-pressed="false"] { opacity: 0.6; }
+.legend .others[aria-pressed="false"] em { color: var(--muted); }
+.legend .others:hover { color: var(--ink); }
 .peek {
   position: absolute;
   width: 220px;
@@ -129,7 +144,8 @@ main { flex: 1 1 0; min-height: 0; position: relative; overflow-y: auto; }
   font-weight: 500;
   overflow-wrap: anywhere;
 }
-.peek span { color: var(--muted); }
+.peek > span { color: var(--muted); }
+.peek .links { display: flex; flex-wrap: wrap; gap: 4px 12px; }
 .peek a { color: var(--thread); }
 
 /* index */
@@ -257,6 +273,27 @@ main:focus-visible { outline: none; }
   overflow-wrap: anywhere;
 }
 .block .cap span { color: var(--muted); }
+.block .cap .also { display: block; font-style: normal; color: var(--thread); }
+
+/* channel notes and other people's channels */
+.note {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 62ch;
+  padding: 8px 12px;
+  border-left: 2px solid var(--thread);
+  color: var(--ink);
+}
+.note p { margin: 0; text-wrap: pretty; }
+.note a { color: var(--thread); }
+.elsewhere { display: flex; flex-direction: column; gap: 4px; font-size: 11px; }
+.elsewhere .label { color: var(--muted); }
+.elsewhere ul { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0; list-style: none; }
+.elsewhere li { display: flex; gap: 6px; align-items: baseline; min-width: 0; }
+.elsewhere a { color: var(--ink); }
+.elsewhere a:hover { color: var(--thread); }
+.elsewhere span { color: var(--muted); }
 .block .text {
   padding: 10px;
   font-size: 12px;
@@ -293,3 +330,120 @@ main:focus-visible { outline: none; }
 .chead .meta a:hover { color: var(--thread); }
 .page .blocks { columns: 220px; column-gap: 14px; }
 
+
+/* notes sit inside the drawer and page headers, so they need to win over those muted paragraph styles */
+.phead .note p, .chead .note p { color: var(--ink); max-width: none; }
+
+/* drift */
+.drift {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+}
+.dstage {
+  flex: 1 1 0;
+  min-height: 0;
+  overflow-y: auto;
+  display: grid;
+  place-items: center;
+  padding-block: 24px;
+  padding-left: var(--gutter-l);
+  padding-right: var(--gutter-r);
+}
+.dblock {
+  margin: 0;
+  width: min(720px, 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  animation: settle 900ms ease-out both;
+}
+.dblock img {
+  max-width: 100%;
+  max-height: 60vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  background: var(--line);
+}
+.dblock blockquote {
+  margin: 0;
+  max-width: 60ch;
+  max-height: 60vh;
+  overflow-y: auto;
+  padding: 20px 24px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  text-wrap: pretty;
+}
+.dlink { font-size: 20px; font-weight: 600; text-align: center; text-wrap: balance; overflow-wrap: anywhere; }
+.dblock figcaption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  max-width: 60ch;
+  text-align: center;
+  font-size: 12px;
+}
+.dblock figcaption b { font-weight: 500; text-wrap: balance; overflow-wrap: anywhere; }
+.dblock figcaption span { color: var(--muted); }
+.dblock figcaption .where a { color: var(--ink); }
+.dblock figcaption a { color: var(--thread); }
+@keyframes settle { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+.dbar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-block: 0 calc(14px + env(safe-area-inset-bottom, 0px));
+  padding-left: var(--gutter-l);
+  padding-right: var(--gutter-r);
+  border-top: 1px dashed var(--line);
+}
+.dprogress { height: 2px; margin-inline: calc(-1 * var(--gutter-l)) calc(-1 * var(--gutter-r)); }
+.dprogress i { display: block; height: 100%; width: 0; background: var(--thread); animation: fill linear forwards; }
+@keyframes fill { to { width: 100%; } }
+.dcontrols { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; }
+.dcontrols button {
+  padding: 4px 14px;
+  background: none;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.dcontrols button:disabled { opacity: 0.4; cursor: default; }
+.dcontrols #drift-play { background: var(--ink); color: var(--bg); min-width: 84px; }
+.wander { display: inline-flex; align-items: center; gap: 6px; margin-left: auto; color: var(--muted); font-size: 11px; cursor: pointer; }
+.trail {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 11px;
+}
+.trail li { display: flex; align-items: center; gap: 4px; }
+.trail li + li::before { content: '→'; color: var(--line); }
+.trail li[data-how="cross"]::before { content: '↔'; color: var(--thread); }
+.trail li[data-how="jump"]::before { content: '·'; }
+.trail button { padding: 1px 6px; background: none; border: 0; border-radius: 4px; color: var(--muted); cursor: pointer; }
+.trail button:hover { color: var(--ink); }
+.trail .here button { background: var(--thread-soft); color: var(--ink); }
+
+@media (max-width: 520px) {
+  .wander { margin-left: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dblock { animation: none; }
+  .dprogress i { animation: none; width: 0; }
+}

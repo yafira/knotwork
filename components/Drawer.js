@@ -4,6 +4,8 @@ import { useEffect, useRef } from 'react'
 import Link from 'next/link'
 import { SITE, when, count, threadsFor } from '@/lib/shared'
 import Blocks from '@/components/Blocks'
+import Note from '@/components/Note'
+import Elsewhere from '@/components/Elsewhere'
 
 export default function Drawer({ site, slug, onOpen, onClose }) {
   const closeRef = useRef(null)
@@ -33,11 +35,13 @@ export default function Drawer({ site, slug, onOpen, onClose }) {
           </button>
         </div>
         {channel.d && <p>{channel.d}</p>}
+        <Note text={site.notes && site.notes[slug]} />
         <div className="meta">
           <span>{count(channel.n)}</span>
           <span>started {when(channel.c)}</span>
           <span>updated {when(channel.u)}</span>
           <Link href={'/c/' + slug}>open as a page</Link>
+          <Link href={'/drift?c=' + slug}>drift through it</Link>
           <a href={SITE + '/' + site.user + '/' + slug} target="_blank" rel="noopener">
             open on are.na ↗
           </a>
@@ -51,6 +55,7 @@ export default function Drawer({ site, slug, onOpen, onClose }) {
             ))}
           </div>
         )}
+        <Elsewhere list={site.outsideBy && site.outsideBy[slug]} />
       </div>
       <div className="pbody">
         <Blocks key={slug} slug={slug} initial={null} />
