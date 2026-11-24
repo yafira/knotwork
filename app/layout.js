@@ -6,7 +6,7 @@ import Nav from '@/components/Nav'
 export const revalidate = 3600
 
 export const metadata = {
-  title: { default: 'yafira ᝰ · are.na', template: '%s · yafira ᝰ' },
+  title: { default: 'knotwork', template: '%s · knotwork' },
   description: 'a map of the channels yafira keeps on are.na'
 }
 
@@ -30,9 +30,9 @@ export default async function RootLayout({ children }) {
       </head>
       <body>
         <header className="bar">
-          <h1>{site.name}</h1>
+          <h1>knotwork</h1>
           <span className="counts">
-            {site.channels.length} channels · {site.total} blocks
+            {site.name} · {site.channels.length} channels · {site.total} blocks
           </span>
           <span className="spacer" />
           <Nav />

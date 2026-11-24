@@ -1,4 +1,4 @@
-# arena-site
+# knotwork
 
 my are.na channels as a website. a graph view where every block is a node, an index view, and a page per channel.
 
