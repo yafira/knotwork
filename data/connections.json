@@ -1,5 +1,4655 @@
 {
-  "synced": null,
-  "outside": [],
-  "counts": {}
+  "synced": "2026-11-24",
+  "total": 13839,
+  "outside": [
+    {
+      "s": "pixels-k6fl0rjeb8o",
+      "t": "pixels",
+      "by": "N NN",
+      "bySlug": "n-nn-iex5ws8nnda",
+      "n": 48,
+      "with": {
+        "ctrl-textile": 48,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "poetic-web",
+      "t": "*Poetic Web",
+      "by": "Chia",
+      "bySlug": "chia",
+      "n": 34,
+      "with": {
+        "web-as-art-space-and-play": 27,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "garden-of-nodes-and-links": 3,
+        "solar-powered-servers": 2,
+        "temporal-mechanisms": 1
+      }
+    },
+    {
+      "s": "women-and-weaving",
+      "t": "women and weaving",
+      "by": "Zoë Carr",
+      "bySlug": "zoe-carr",
+      "n": 28,
+      "with": {
+        "ctrl-textile": 26,
+        "web-as-art-space-and-play": 1,
+        "artyping": 1
+      }
+    },
+    {
+      "s": "textiles-text-tiles",
+      "t": "textiles/text/tiles",
+      "by": "Alanna Okun",
+      "bySlug": "alanna-okun",
+      "n": 27,
+      "with": {
+        "ctrl-textile": 24,
+        "cyberdeck-exe-9tnkemv_c50": 2,
+        "of-bits-gates-and-logic": 2
+      }
+    },
+    {
+      "s": "weaving-coding",
+      "t": "Weaving Coding",
+      "by": "Amandine David",
+      "bySlug": "amandine-david",
+      "n": 27,
+      "with": {
+        "ctrl-textile": 27
+      }
+    },
+    {
+      "s": "weaving-cyberfem",
+      "t": "weaving cyberfem",
+      "by": "Chaski _",
+      "bySlug": "chaski-_",
+      "n": 27,
+      "with": {
+        "ctrl-textile": 27
+      }
+    },
+    {
+      "s": "chaining-textiles-data-computation",
+      "t": "❉ chaining ❉ - textiles/data/computation",
+      "by": "hayley mortin",
+      "bySlug": "hayley-mortin",
+      "n": 26,
+      "with": {
+        "ctrl-textile": 26
+      }
+    },
+    {
+      "s": "knitting-hacking",
+      "t": "knitting/hacking",
+      "by": "Becca Ricks 🌱",
+      "bySlug": "becca-ricks",
+      "n": 26,
+      "with": {
+        "ctrl-textile": 26
+      }
+    },
+    {
+      "s": "romantic-web-y2ke1ruabeo",
+      "t": "•̥ romantic web",
+      "by": "delph 𓁹",
+      "bySlug": "delph",
+      "n": 25,
+      "with": {
+        "web-as-art-space-and-play": 21,
+        "artyping": 2,
+        "solar-powered-servers": 1,
+        "hand-held-tools": 1,
+        "electronic-text-9bez9uok3la": 1
+      }
+    },
+    {
+      "s": "weaving-we8wxvedmne",
+      "t": "▦ weaving ▦",
+      "by": "Kathleen Quaintance",
+      "bySlug": "kathleen-quaintance",
+      "n": 25,
+      "with": {
+        "ctrl-textile": 25
+      }
+    },
+    {
+      "s": "digital-embroidery-9pazah2eez0",
+      "t": "Digital Embroidery",
+      "by": "Alina Spatz",
+      "bySlug": "alina-spatz",
+      "n": 25,
+      "with": {
+        "ctrl-textile": 24,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "dna-from-mother-computer-3",
+      "t": "DNA from Mother Computer <3",
+      "by": "Jupiter G",
+      "bySlug": "jupiter-g",
+      "n": 25,
+      "with": {
+        "inputs-portals-interfaces": 6,
+        "alt-os-w7bwdpsnh4y": 1,
+        "ctrl-textile": 14,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "of-bits-gates-and-logic": 1,
+        "temporal-mechanisms": 1,
+        "poetronics": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "grafisk-udskiftningsformat",
+      "t": "Grafisk Udskiftningsformat",
+      "by": "N NN",
+      "bySlug": "n-nn-iex5ws8nnda",
+      "n": 24,
+      "with": {
+        "inputs-portals-interfaces": 12,
+        "poetronics": 2,
+        "ctrl-textile": 7,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "temporal-mechanisms": 2
+      }
+    },
+    {
+      "s": "visual-computing-observatory",
+      "t": "Visual Computing Observatory",
+      "by": "Taulant Sulko",
+      "bySlug": "taulant-sulko",
+      "n": 22,
+      "with": {
+        "inputs-portals-interfaces": 4,
+        "alt-os-w7bwdpsnh4y": 2,
+        "ctrl-textile": 6,
+        "of-bits-gates-and-logic": 5,
+        "soft-computing-qsqjyw9wgwc": 3,
+        "garden-of-nodes-and-links": 1,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "ctm-cute-tech",
+      "t": "CTM Cute Tech 🧸📱🩷",
+      "by": "Elena 666",
+      "bySlug": "elena-666",
+      "n": 21,
+      "with": {
+        "cute-technologies": 15,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "wandering-traces": 2,
+        "poetronics": 3,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "e-textile-vs_4qtpetvy",
+      "t": "(E)-Textile",
+      "by": "Zujsk0 Zujsko",
+      "bySlug": "zujsk0-zujsko",
+      "n": 20,
+      "with": {
+        "ctrl-textile": 18,
+        "artyping": 1,
+        "tender-circuits": 1
+      }
+    },
+    {
+      "s": "textile-code",
+      "t": "Textile Code",
+      "by": "Roberto Greco",
+      "bySlug": "roberto-greco",
+      "n": 20,
+      "with": {
+        "ctrl-textile": 20
+      }
+    },
+    {
+      "s": "research-textiles-computation",
+      "t": "research | textiles + computation",
+      "by": "Laura Sinisterra",
+      "bySlug": "symbolicxchange",
+      "n": 19,
+      "with": {
+        "ctrl-textile": 19
+      }
+    },
+    {
+      "s": "textiles-7-ehafea6a",
+      "t": "textiles",
+      "by": "Shelby Wilson",
+      "bySlug": "shelby-wilson",
+      "n": 18,
+      "with": {
+        "ctrl-textile": 18
+      }
+    },
+    {
+      "s": "interfaces-software-hardware",
+      "t": "Interfaces Software Hardware",
+      "by": "Shelby Shaw",
+      "bySlug": "shelby-shaw",
+      "n": 17,
+      "with": {
+        "inputs-portals-interfaces": 13,
+        "poetronics": 2,
+        "soft-computing-qsqjyw9wgwc": 2
+      }
+    },
+    {
+      "s": "minah-s-mind",
+      "t": "Minah’s Mind",
+      "by": "Minah Kwon",
+      "bySlug": "minah-kwon",
+      "n": 16,
+      "with": {
+        "ctrl-textile": 13,
+        "bytes-and-bolts": 1,
+        "cute-technologies": 1,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "rhizomatic-2f61630aoo0",
+      "t": "RHIZOMATIC",
+      "by": "Meryl Prendergast",
+      "bySlug": "meryl-prendergast-r4efbpj1tj4",
+      "n": 16,
+      "with": {
+        "ctrl-textile": 16
+      }
+    },
+    {
+      "s": "software-knitting-feminisms",
+      "t": "software + knitting + feminisms 🕸️🧶",
+      "by": "nadia cw",
+      "bySlug": "nadia-cw",
+      "n": 15,
+      "with": {
+        "ctrl-textile": 15
+      }
+    },
+    {
+      "s": "www-os-replicas",
+      "t": "WWW / OS replicas",
+      "by": "Chia",
+      "bySlug": "chia",
+      "n": 15,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 14,
+        "hand-held-tools": 1
+      }
+    },
+    {
+      "s": "comfortable-computers-computing",
+      "t": "💻 comfortable computers/computing",
+      "by": "Jon Chen",
+      "bySlug": "jon-chen",
+      "n": 14,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 10,
+        "cute-technologies": 4,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "crossing-weaving-stitching-coding",
+      "t": "crossing weaving stitching coding",
+      "by": "Rebecca Bertero",
+      "bySlug": "rebecca-bertero",
+      "n": 14,
+      "with": {
+        "ctrl-textile": 14
+      }
+    },
+    {
+      "s": "do-you-compute",
+      "t": "do you compute?",
+      "by": "Molly Mielke",
+      "bySlug": "molly-mielke",
+      "n": 14,
+      "with": {
+        "ctrl-textile": 1,
+        "of-bits-gates-and-logic": 5,
+        "poetronics": 2,
+        "cute-technologies": 1,
+        "inputs-portals-interfaces": 3,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "research-2020-2024",
+      "t": "Research [2020-2024]",
+      "by": "Saeed Ferguson",
+      "bySlug": "saeed-ferguson",
+      "n": 14,
+      "with": {
+        "ctrl-textile": 7,
+        "poetronics": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 1,
+        "garden-of-nodes-and-links": 1,
+        "inputs-portals-interfaces": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "of-bits-gates-and-logic": 1
+      }
+    },
+    {
+      "s": "hyperknit-lyrbadu2fe4",
+      "t": "hyperknit",
+      "by": "Dulcie Dobson",
+      "bySlug": "dulcie-dobson",
+      "n": 13,
+      "with": {
+        "ctrl-textile": 13,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "weaving-as-technical-mode-of-existence",
+      "t": "〰 weaving as technical mode of existence",
+      "by": "kenza benbouchaib",
+      "bySlug": "kenza-benbouchaib-eppvyuyoxws",
+      "n": 12,
+      "with": {
+        "ctrl-textile": 10,
+        "of-bits-gates-and-logic": 1,
+        "tender-circuits": 1
+      }
+    },
+    {
+      "s": "artificially-yours-inspo",
+      "t": "artificially yours inspo",
+      "by": "Jupiter G",
+      "bySlug": "jupiter-g",
+      "n": 12,
+      "with": {
+        "ctrl-textile": 3,
+        "soft-computing-qsqjyw9wgwc": 4,
+        "inputs-portals-interfaces": 2,
+        "cute-technologies": 2,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "chess-17rlsjw8g0y",
+      "t": "chess ♞",
+      "by": "liyv ❦",
+      "bySlug": "liyv",
+      "n": 12,
+      "with": {
+        "checkmate-joyrxvsko1m": 12
+      }
+    },
+    {
+      "s": "clippings-yn2wacrkhl4",
+      "t": "clippings",
+      "by": "fi ꩜",
+      "bySlug": "fi",
+      "n": 12,
+      "with": {
+        "poetronics": 2,
+        "ctrl-textile": 4,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "checkmate-joyrxvsko1m": 1,
+        "inputs-portals-interfaces": 3
+      }
+    },
+    {
+      "s": "computer-love-lis2by9k3h0",
+      "t": "computer love",
+      "by": "Ri yam",
+      "bySlug": "ri-yam-2bslzm376zk",
+      "n": 12,
+      "with": {
+        "inputs-portals-interfaces": 5,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "cute-technologies": 1,
+        "poetronics": 2,
+        "wandering-traces": 2
+      }
+    },
+    {
+      "s": "hypertextiles",
+      "t": "hypertextiles",
+      "by": "gem etcetera",
+      "bySlug": "gem-etcetera",
+      "n": 12,
+      "with": {
+        "ctrl-textile": 11,
+        "of-bits-gates-and-logic": 1
+      }
+    },
+    {
+      "s": "knitting-coding-weaving",
+      "t": "knitting / coding / weaving",
+      "by": "natayie ･｡.*☆",
+      "bySlug": "natayie",
+      "n": 12,
+      "with": {
+        "ctrl-textile": 12
+      }
+    },
+    {
+      "s": "knitted-cyberfeminisms",
+      "t": "▩ knitted cyberfeminisms",
+      "by": "Holly Zijderveld",
+      "bySlug": "holly-zijderveld",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "res-invisible-machine",
+      "t": "💫 / res / invisible machine",
+      "by": "Luiz Murara",
+      "bySlug": "luiz-murara",
+      "n": 11,
+      "with": {
+        "poetronics": 5,
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "wandering-traces": 3,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "bookshelf-oja6e3pl8jw",
+      "t": "bookshelf",
+      "by": "genevieve ⚘𖡼𖤣𖥧𖦞·₊̣̇.",
+      "bySlug": "genevieve-kbkrdmjyit0",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11
+      }
+    },
+    {
+      "s": "chaos-upxfxvp90e8",
+      "t": "CHAOS",
+      "by": "justin ackerschott",
+      "bySlug": "justin-ackerschott",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11
+      }
+    },
+    {
+      "s": "computer-controlled-knitting",
+      "t": "Computer Controlled Knitting",
+      "by": "Owen Trueblood",
+      "bySlug": "owen-trueblood",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11
+      }
+    },
+    {
+      "s": "computing-as-craft",
+      "t": "computing as craft",
+      "by": "k g-t",
+      "bySlug": "k-g-t",
+      "n": 11,
+      "with": {
+        "poetronics": 4,
+        "ctrl-textile": 7,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "design-bootloader",
+      "t": "design bootloader",
+      "by": "Jeff Thomson",
+      "bySlug": "jeff-thomson",
+      "n": 11,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 1,
+        "ctrl-textile": 6,
+        "inputs-portals-interfaces": 3,
+        "garden-of-nodes-and-links": 1
+      }
+    },
+    {
+      "s": "inventing-inventions",
+      "t": "Inventing Inventions 📽️",
+      "by": "Jupiter G",
+      "bySlug": "jupiter-g",
+      "n": 11,
+      "with": {
+        "poetronics": 2,
+        "ctrl-textile": 3,
+        "cute-technologies": 4,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "inputs-portals-interfaces": 1,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "isolated-objects-nr5ljud6lug",
+      "t": "isolated objects",
+      "by": "Elliot Vredenburg",
+      "bySlug": "elliot-vredenburg-jlaj858sozi",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 2,
+        "cute-technologies": 7,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "src-textile-computer",
+      "t": "src / textile computer",
+      "by": "agnes cameron",
+      "bySlug": "agnes-cameron",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11
+      }
+    },
+    {
+      "s": "techno-artisanat",
+      "t": "techno artisanat",
+      "by": "Eugénie Marissal",
+      "bySlug": "eugenie-marissal",
+      "n": 11,
+      "with": {
+        "ctrl-textile": 11
+      }
+    },
+    {
+      "s": "geist-7mt9uq2gxko",
+      "t": "「 GEIST 」",
+      "by": "「 ⧖ 」",
+      "bySlug": "szldddi-rbi",
+      "n": 10,
+      "with": {
+        "inputs-portals-interfaces": 3,
+        "ctrl-textile": 4,
+        "temporal-mechanisms": 1,
+        "cute-technologies": 1,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "digital-interaction-textiles",
+      "t": "✎ Digital Interaction + Textiles",
+      "by": "Lily Rickels",
+      "bySlug": "lily-rickels",
+      "n": 10,
+      "with": {
+        "ctrl-textile": 10
+      }
+    },
+    {
+      "s": "just-things-i-like",
+      "t": "just things i like",
+      "by": "Isak de Jong",
+      "bySlug": "isak-de-jong",
+      "n": 10,
+      "with": {
+        "inputs-portals-interfaces": 4,
+        "ctrl-textile": 5,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "nonograms-mesh-and-games",
+      "t": "nonograms mesh and games",
+      "by": "Vera Roos",
+      "bySlug": "vera-roos",
+      "n": 10,
+      "with": {
+        "ctrl-textile": 9,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "systems-h3be0syvs40",
+      "t": "Systems",
+      "by": "Alex Delker",
+      "bySlug": "alex-delker",
+      "n": 10,
+      "with": {
+        "ctrl-textile": 10
+      }
+    },
+    {
+      "s": "texttiles",
+      "t": "TEXTtiles",
+      "by": "Emma Hesson",
+      "bySlug": "emma-hesson",
+      "n": 10,
+      "with": {
+        "ctrl-textile": 10
+      }
+    },
+    {
+      "s": "cyber-kg071zmum2q",
+      "t": "™cyber",
+      "by": "XX YY",
+      "bySlug": "xx-yy",
+      "n": 10,
+      "with": {
+        "poetronics": 2,
+        "inputs-portals-interfaces": 3,
+        "ctrl-textile": 2,
+        "wandering-traces": 3
+      }
+    },
+    {
+      "s": "vau-2daq6geaobe",
+      "t": "vau",
+      "by": "Liza Nikiforovaa",
+      "bySlug": "liza-nikiforovaa",
+      "n": 10,
+      "with": {
+        "bytes-and-bolts": 10
+      }
+    },
+    {
+      "s": "degrees-period-period",
+      "t": "༄°.🍃.ೃ࿔",
+      "by": "𝐚𝐦𝐨r ~·:| ⡷⠂〇º ° •.⠐⢾ |:·~ 𝐚𝐬𝐢𝐧𝐭ó𝐭𝐢𝐜𝐨",
+      "bySlug": "r-o-lz7zrpb6zgk",
+      "n": 9,
+      "with": {
+        "inputs-portals-interfaces": 3,
+        "alt-os-w7bwdpsnh4y": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "ctrl-textile": 1,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "meet-me-in-the-loom-weaving",
+      "t": "🕸 meet me in the loom; weaving",
+      "by": "Rosemary ✿",
+      "bySlug": "rosemary",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 9
+      }
+    },
+    {
+      "s": "code-of-weaving",
+      "t": "Code of Weaving",
+      "by": "Zeynep Celikok",
+      "bySlug": "zeynep-celikok",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 9
+      }
+    },
+    {
+      "s": "cybersoft",
+      "t": "cybersoft",
+      "by": "Caroline Hana",
+      "bySlug": "caroline-hana",
+      "n": 9,
+      "with": {
+        "cute-technologies": 9,
+        "cyberdeck-exe-9tnkemv_c50": 2
+      }
+    },
+    {
+      "s": "fictional-interface",
+      "t": "Fictional Interface",
+      "by": "John Michael Boling",
+      "bySlug": "jmb",
+      "n": 9,
+      "with": {
+        "inputs-portals-interfaces": 9
+      }
+    },
+    {
+      "s": "grids-and-layouts-frbtqdxzyee",
+      "t": "Grids and layouts",
+      "by": "Justin Lincoln",
+      "bySlug": "justin-lincoln",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 8,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "hardware-pjzioqz2zk4",
+      "t": "hardware",
+      "by": "Reid Hannaford",
+      "bySlug": "reid-hannaford",
+      "n": 9,
+      "with": {
+        "cute-technologies": 8,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "miscellaneous-operators": 1
+      }
+    },
+    {
+      "s": "im-a-weirdo",
+      "t": "im a weirdo",
+      "by": "m xs",
+      "bySlug": "m-xs",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 1,
+        "checkmate-joyrxvsko1m": 7,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "knitting-as-code",
+      "t": "Knitting as Code",
+      "by": "Puff Pastry",
+      "bySlug": "puff-pastry",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 9
+      }
+    },
+    {
+      "s": "p-p-o",
+      "t": "P* P* 🐌 O*^",
+      "by": "Polly Hu",
+      "bySlug": "polly-hu",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 4,
+        "cute-technologies": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "wandering-traces": 1,
+        "of-bits-gates-and-logic": 1
+      }
+    },
+    {
+      "s": "textile-c2xypaq8ge0",
+      "t": "Textile",
+      "by": "Josefine Stuart",
+      "bySlug": "josefine-stuart",
+      "n": 9,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "warp-weft-bn4xocsymyo",
+      "t": "Warp/Weft",
+      "by": "audrey wud",
+      "bySlug": "audrey-wud",
+      "n": 9,
+      "with": {
+        "ctrl-textile": 9,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "maps-m8mpmn3mmzq",
+      "t": "[Maps]",
+      "by": "Daniel Schrempf",
+      "bySlug": "dansch",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 7,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "pdfs-t7gsscxgprc",
+      "t": "↪️ Pdfs",
+      "by": "McKenna Gray",
+      "bySlug": "mckenna-gray",
+      "n": 8,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 5,
+        "of-bits-gates-and-logic": 1,
+        "material-language-inoby4kwyk0": 1
+      }
+    },
+    {
+      "s": "ui-kitbash",
+      "t": "= ui kitbash",
+      "by": "Kian Park",
+      "bySlug": "kian-park",
+      "n": 8,
+      "with": {
+        "web-as-art-space-and-play": 2,
+        "inputs-portals-interfaces": 6
+      }
+    },
+    {
+      "s": "websites-with-a-face-a-soul-a-name",
+      "t": "❊ websites with a face, a soul, a name",
+      "by": "Selina Kehuan Wu",
+      "bySlug": "skw",
+      "n": 8,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 7,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "4textiles",
+      "t": "4textiles",
+      "by": "ruby rodgers",
+      "bySlug": "ruby-rodgers",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "comput-ing",
+      "t": "comput / ing",
+      "by": "flat desk",
+      "bySlug": "flat-desk",
+      "n": 8,
+      "with": {
+        "cute-technologies": 5,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 1,
+        "of-bits-gates-and-logic": 1
+      }
+    },
+    {
+      "s": "cool-websites-9ecxxoa1doq",
+      "t": "cool websites",
+      "by": "fi ꩜",
+      "bySlug": "fi",
+      "n": 8,
+      "with": {
+        "hand-held-tools": 1,
+        "inputs-portals-interfaces": 1,
+        "alt-os-w7bwdpsnh4y": 2,
+        "web-as-art-space-and-play": 4
+      }
+    },
+    {
+      "s": "creamy-aqua-tech",
+      "t": "creamy aqua tech 𓏸𓈒𓆇 𓄼",
+      "by": "Jessina Lö",
+      "bySlug": "jessina-lo",
+      "n": 8,
+      "with": {
+        "cute-technologies": 8
+      }
+    },
+    {
+      "s": "data-flows-like-water",
+      "t": "Data flows like water",
+      "by": "Amber Bridge",
+      "bySlug": "amber-bridge",
+      "n": 8,
+      "with": {
+        "garden-of-nodes-and-links": 1,
+        "inputs-portals-interfaces": 4,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "designer-sources",
+      "t": "designer sources",
+      "by": "keertana 𓆑",
+      "bySlug": "keertana",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "fibre-knit-motion",
+      "t": "Fibre/Knit Motion",
+      "by": "Jasmine Daisy Forbes",
+      "bySlug": "jasmine-daisy-forbes",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "for-lizette-greco",
+      "t": "for: Lizette Greco",
+      "by": "Roberto Greco",
+      "bySlug": "roberto-greco",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "haccakntml",
+      "t": "Haccakntml",
+      "by": "giada wegreend",
+      "bySlug": "giada-wegreend",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "i-hoard-sites",
+      "t": "i hoard sites",
+      "by": "sangarang ⁕",
+      "bySlug": "sangarang",
+      "n": 8,
+      "with": {
+        "web-as-art-space-and-play": 6,
+        "ctrl-textile": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "hand-held-tools": 1
+      }
+    },
+    {
+      "s": "inbox-1529163977",
+      "t": "Inbox",
+      "by": "Constantine 1970-01-01",
+      "bySlug": "constantine-1970-01-01",
+      "n": 8,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "temporal-mechanisms": 1,
+        "cute-technologies": 1,
+        "ctrl-textile": 1,
+        "web-as-art-space-and-play": 2
+      }
+    },
+    {
+      "s": "inspo-imgs",
+      "t": "Inspo [IMGs]",
+      "by": "Rodrigo Rojo de la Torre",
+      "bySlug": "rodrigo-rojo-de-la-torre",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 3,
+        "inputs-portals-interfaces": 2,
+        "cute-technologies": 2,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "kaere-computer",
+      "t": "Kære Computer",
+      "by": "N NN",
+      "bySlug": "n-nn-iex5ws8nnda",
+      "n": 8,
+      "with": {
+        "inputs-portals-interfaces": 4,
+        "alt-os-w7bwdpsnh4y": 1,
+        "soft-computing-qsqjyw9wgwc": 3
+      }
+    },
+    {
+      "s": "kill-da-imterneb",
+      "t": "kill da imterneb",
+      "by": "saba °•.",
+      "bySlug": "saba",
+      "n": 8,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "wandering-traces": 1,
+        "material-language-inoby4kwyk0": 1,
+        "inputs-portals-interfaces": 1,
+        "web-as-art-space-and-play": 2,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "looming-weaving-y6h7il1ttxc",
+      "t": "looming, weaving",
+      "by": "ky rose",
+      "bySlug": "ky-rose",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "patrones-vnpaqe5sv7y",
+      "t": "Patrones",
+      "by": "Lena Gwen",
+      "bySlug": "lena-gwen",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "real-and-true-misc",
+      "t": "real and true (misc)",
+      "by": "EVA ⋆｡°✩",
+      "bySlug": "eva-ske5tmmamlk",
+      "n": 8,
+      "with": {
+        "poetronics": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "ctrl-textile": 3,
+        "bytes-and-bolts": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "tender-web",
+      "t": "tender web",
+      "by": "anne lee steele",
+      "bySlug": "anne-lee-steele",
+      "n": 8,
+      "with": {
+        "electronic-text-9bez9uok3la": 1,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "wandering-traces": 1,
+        "ctrl-textile": 2,
+        "web-as-art-space-and-play": 1,
+        "garden-of-nodes-and-links": 1
+      }
+    },
+    {
+      "s": "textile-and-algorithm",
+      "t": "textile and algorithm",
+      "by": "natha g",
+      "bySlug": "natha-g",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 8
+      }
+    },
+    {
+      "s": "things-that-feel-right",
+      "t": "things that feel right",
+      "by": "tetrachromat",
+      "bySlug": "tetrachromat",
+      "n": 8,
+      "with": {
+        "ctrl-textile": 7,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "time-wed8zrqt0-m",
+      "t": "time",
+      "by": "Linda Liukas",
+      "bySlug": "linda-liukas",
+      "n": 8,
+      "with": {
+        "temporal-mechanisms": 8
+      }
+    },
+    {
+      "s": "textiles-technology-x8wzokqmb1i",
+      "t": "´⁠༎ຶ⁠ textiles / technology ༎ຶ⁠",
+      "by": "Choley Emma",
+      "bySlug": "choley-emma",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "help-2-0",
+      "t": "🌱🥚 help! 2.0 🍰🥞",
+      "by": "Alexandra Sevareid",
+      "bySlug": "alexandra-sevareid-bzk-hdvtlti",
+      "n": 7,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 1,
+        "inputs-portals-interfaces": 3,
+        "ctrl-textile": 1,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "burnt-candies",
+      "t": "Burnt candies☆٩(｡•ω<｡)و",
+      "by": "Dr.Zoobie ପ૮๑ᵔ ᵕ ᵔ๑ აଓ",
+      "bySlug": "dr-zoobie",
+      "n": 7,
+      "with": {
+        "poetronics": 1,
+        "cute-technologies": 4,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "chess-dxm0davt3ny",
+      "t": "chess!!!",
+      "by": "Shayna ‎",
+      "bySlug": "shayna",
+      "n": 7,
+      "with": {
+        "checkmate-joyrxvsko1m": 7
+      }
+    },
+    {
+      "s": "crafty-collage",
+      "t": "crafty collage ✧₊⁺🕯⋆.˚୨ৎ",
+      "by": "Harley Claes",
+      "bySlug": "harley-claes",
+      "n": 7,
+      "with": {
+        "temporal-mechanisms": 1,
+        "cute-technologies": 3,
+        "poetronics": 1,
+        "soft-and-cute-robotics": 1,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "embroidery-8khpwvzvz7o",
+      "t": "embroidery",
+      "by": "Polina Lobanova",
+      "bySlug": "polina-lobanova",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "god-phone",
+      "t": "god phone",
+      "by": "Jeffrey Bezos",
+      "bySlug": "jeffrey-bezos",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 6,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "gossip-coqb3poy8as",
+      "t": "gossip",
+      "by": "Deborah Khodanovich",
+      "bySlug": "deborah-khodanovich",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "hack-nyc",
+      "t": "HACK NYC",
+      "by": "Ashagereh Zamana",
+      "bySlug": "ashagereh-zamana",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "hyperlink-university-zyywjehxr4u",
+      "t": "hyperlink.university",
+      "by": "Hyperlink University",
+      "bySlug": "hyperlink-university",
+      "n": 7,
+      "with": {
+        "garden-of-nodes-and-links": 1,
+        "inputs-portals-interfaces": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "poetronics": 1,
+        "cute-technologies": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "look-jkodoqtiv0u",
+      "t": "LOOK",
+      "by": "Patrick Tomasiewicz",
+      "bySlug": "patrick-tomasiewicz",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 3,
+        "garden-of-nodes-and-links": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "love-at-first-site",
+      "t": "love at first site",
+      "by": "Polina Lobanova",
+      "bySlug": "polina-lobanova",
+      "n": 7,
+      "with": {
+        "electronic-text-9bez9uok3la": 2,
+        "web-as-art-space-and-play": 2,
+        "bytes-and-bolts": 1,
+        "temporal-mechanisms": 1,
+        "alt-os-w7bwdpsnh4y": 1
+      }
+    },
+    {
+      "s": "ls-bhjacbfcygy",
+      "t": "LS",
+      "by": "edwin lew højbak",
+      "bySlug": "edwin-lew-hojbak",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "media-materiality-history-archaeology",
+      "t": "media materiality / history / archaeology",
+      "by": "Allegra K",
+      "bySlug": "allegra-k",
+      "n": 7,
+      "with": {
+        "of-bits-gates-and-logic": 1,
+        "alt-os-w7bwdpsnh4y": 2,
+        "ctrl-textile": 3,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "my-jam-anqeua53sow",
+      "t": "My jam",
+      "by": "Justin Lincoln",
+      "bySlug": "justin-lincoln",
+      "n": 7,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 4,
+        "electronic-text-9bez9uok3la": 1,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "painting-ref-unsorted",
+      "t": "painting ref ; unsorted",
+      "by": "liv masterson",
+      "bySlug": "liv-masterson",
+      "n": 7,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 6,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "phi-at-ou",
+      "t": "phi at ou",
+      "by": "C de Caracol",
+      "bySlug": "c-de-caracol",
+      "n": 7,
+      "with": {
+        "cute-technologies": 5,
+        "poetronics": 2
+      }
+    },
+    {
+      "s": "props-s8bkv6sxwta",
+      "t": "Props",
+      "by": "Kacie K",
+      "bySlug": "kacie-k",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 2,
+        "poetronics": 1,
+        "cute-technologies": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cyberdeck-exe-9tnkemv_c50": 2
+      }
+    },
+    {
+      "s": "radical-technologies-and-art",
+      "t": "Radical Technologies and Art",
+      "by": "amr ash",
+      "bySlug": "amr-ash",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 5,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "soft-computers",
+      "t": "Soft Computers",
+      "by": "c hloe",
+      "bySlug": "c-hloe",
+      "n": 7,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 7
+      }
+    },
+    {
+      "s": "stitchin",
+      "t": "stitchin",
+      "by": "claire loes",
+      "bySlug": "claire-loes",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "text-textile-text",
+      "t": "text::textile::text",
+      "by": "lu heintz",
+      "bySlug": "lu-heintz",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "textile-shby9vxrini",
+      "t": "textile",
+      "by": "Joe Heffernan",
+      "bySlug": "joe-heffernan",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "textiles-tzcqxjoerwm",
+      "t": "textiles",
+      "by": "Martina Farrugia",
+      "bySlug": "martina-farrugia",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "thirsty-for-knowledge",
+      "t": "Thirsty for Knowledge",
+      "by": "Fletcher Bach",
+      "bySlug": "fletcher-bach",
+      "n": 7,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 3,
+        "poetronics": 1,
+        "solar-powered-servers": 2
+      }
+    },
+    {
+      "s": "u-wouldn-t-download-a-car",
+      "t": "u wouldn't download a car",
+      "by": "fi ꩜",
+      "bySlug": "fi",
+      "n": 7,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 4,
+        "of-bits-gates-and-logic": 1,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "visually-intriguing",
+      "t": "visually intriguing",
+      "by": "conrad house",
+      "bySlug": "conrad-house",
+      "n": 7,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "web-tools-d2mxdvpjvxs",
+      "t": "Web, Tools",
+      "by": "Feral Dear",
+      "bySlug": "feral-dear",
+      "n": 7,
+      "with": {
+        "cute-technologies": 1,
+        "web-as-art-space-and-play": 5,
+        "temporal-mechanisms": 1
+      }
+    },
+    {
+      "s": "wiai",
+      "t": "wiai",
+      "by": "Yulai Fan",
+      "bySlug": "yulai-fan-7bedfk6awtk",
+      "n": 7,
+      "with": {
+        "of-bits-gates-and-logic": 1,
+        "ctrl-textile": 5,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "world-wide-web-8vkg81t77t0",
+      "t": "World Wide Web",
+      "by": "Z Z",
+      "bySlug": "z-z-reh-yspr1qk",
+      "n": 7,
+      "with": {
+        "web-as-art-space-and-play": 5,
+        "ctrl-textile": 1,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "woven-cozeqtbqwuq",
+      "t": "woven",
+      "by": "natalie patane",
+      "bySlug": "natalie-patane",
+      "n": 7,
+      "with": {
+        "ctrl-textile": 7
+      }
+    },
+    {
+      "s": "textile-dllzzbj1glu",
+      "t": "// textile",
+      "by": "Camila Serrano",
+      "bySlug": "camila-serrano",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "websites-that-look-like-desktops-xr4dhvkxeym",
+      "t": "✶ Websites that look like desktops",
+      "by": "Lucy Pham",
+      "bySlug": "lucy-pham",
+      "n": 6,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 5,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "antilibrary-pdf",
+      "t": "✶✶ antilibrary.pdf",
+      "by": "fidacura ꩜",
+      "bySlug": "fidacura",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 3,
+        "poetronics": 1,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "hardware-aqkjt6et3gu",
+      "t": "🗄 Hardware",
+      "by": "fergarram ☠︎",
+      "bySlug": "fergarram",
+      "n": 6,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 3,
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "thicket-rimjwddumh4",
+      "t": "🥚 Thicket",
+      "by": "Stephan Kraus",
+      "bySlug": "stephan-kraus",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 5,
+        "garden-of-nodes-and-links": 1
+      }
+    },
+    {
+      "s": "practice-n-research",
+      "t": "🧶 practice n research",
+      "by": "reuven evelyn",
+      "bySlug": "reuven-evelyn",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "alternate-readings",
+      "t": "Alternate Readings",
+      "by": "Informal Structures",
+      "bySlug": "informal-structures",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 5,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "animated-type-graphics",
+      "t": "animated type & graphics",
+      "by": "Isak de Jong",
+      "bySlug": "isak-de-jong",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "temporal-mechanisms": 1,
+        "ctrl-textile": 3
+      }
+    },
+    {
+      "s": "another-gif-channel",
+      "t": "Another GIF Channel",
+      "by": "Shelby Shaw",
+      "bySlug": "shelby-shaw",
+      "n": 6,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 3,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "apothecary-alchemy",
+      "t": "Apothecary Alchemy",
+      "by": "Watts .jp",
+      "bySlug": "watts-jp",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "ctrl-textile": 1,
+        "temporal-mechanisms": 1,
+        "soft-computing-qsqjyw9wgwc": 2
+      }
+    },
+    {
+      "s": "artifacts-ahuwwo2lmee",
+      "t": "Artifacts",
+      "by": "Forrest Huu Ta",
+      "bySlug": "forrest-huu-ta",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 1,
+        "bytes-and-bolts": 1,
+        "cute-technologies": 2,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "book-hub",
+      "t": "book hub",
+      "by": "Sam Kahrar",
+      "bySlug": "sam-kahrar",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 5,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "caroline-assignment-1",
+      "t": "Caroline - Assignment 1",
+      "by": "Caroline Hana",
+      "bySlug": "caroline-hana",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 3,
+        "tender-circuits": 3,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "chess-axgbscyxzem",
+      "t": "chess",
+      "by": "vanessa ദ്ദി ˉ͈̀꒳ˉ͈́ )✧",
+      "bySlug": "vanessa-qngytntkh00",
+      "n": 6,
+      "with": {
+        "checkmate-joyrxvsko1m": 6
+      }
+    },
+    {
+      "s": "chess-qh2gzpjyolk",
+      "t": "Chess",
+      "by": "fidacura ꩜",
+      "bySlug": "fidacura",
+      "n": 6,
+      "with": {
+        "checkmate-joyrxvsko1m": 6
+      }
+    },
+    {
+      "s": "chessboard-mims-ss24",
+      "t": "CHESSBOARD MIMS SS24",
+      "by": "Mickael TJON-A-PAN",
+      "bySlug": "mickael-tjon-a-pan",
+      "n": 6,
+      "with": {
+        "checkmate-joyrxvsko1m": 6
+      }
+    },
+    {
+      "s": "circuit-board",
+      "t": "Circuit Board",
+      "by": "Taulant Sulko",
+      "bySlug": "taulant-sulko",
+      "n": 6,
+      "with": {
+        "poetronics": 4,
+        "solar-powered-servers": 1,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "cool-stuff-2om6p4zwmkw",
+      "t": "cool stuff",
+      "by": "Yogini Borg",
+      "bySlug": "yogini-borg",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 3,
+        "soft-and-cute-robotics": 1
+      }
+    },
+    {
+      "s": "corkboard-xbklcakkvfw",
+      "t": "corkboard",
+      "by": "Justin Grass",
+      "bySlug": "justin-grass",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 2,
+        "cute-technologies": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "curious-cs",
+      "t": "Curious + CS",
+      "by": "Linda Liukas",
+      "bySlug": "linda-liukas",
+      "n": 6,
+      "with": {
+        "of-bits-gates-and-logic": 5,
+        "artyping": 1
+      }
+    },
+    {
+      "s": "dangerfield",
+      "t": "dangerfield",
+      "by": "Daisy Watson",
+      "bySlug": "daisy-watson-vcgr61ag2rw",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "design-motion-zcdmh2q4w84",
+      "t": "design/motion",
+      "by": "Jake Chvatal",
+      "bySlug": "jake-chvatal",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "ctrl-textile": 3,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "dikdocs-pdfs-etc",
+      "t": "DikDocs (.pdfs, etc)",
+      "by": "Bimbo in Limbo",
+      "bySlug": "bimbo-in-limbo",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "do-you-dream-of-computers",
+      "t": "do you dream of computers",
+      "by": "Polina Lobanova",
+      "bySlug": "polina-lobanova",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "poetronics": 2,
+        "soft-computing-qsqjyw9wgwc": 3,
+        "cute-technologies": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "do-your-clothes-kiss-you-where-you-hurt",
+      "t": "do your clothes kiss you where you hurt?",
+      "by": "EROTIC SPIRIT",
+      "bySlug": "erotic-spirit",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "feminine-monarchy",
+      "t": "feminine monarchy",
+      "by": "Deborah Khodanovich",
+      "bySlug": "deborah-khodanovich",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "game-device-study",
+      "t": "Game Device Study",
+      "by": "Taulant Sulko",
+      "bySlug": "taulant-sulko",
+      "n": 6,
+      "with": {
+        "cute-technologies": 6,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "soft-and-cute-robotics": 1
+      }
+    },
+    {
+      "s": "good-pdf",
+      "t": "good pdf",
+      "by": "N NN",
+      "bySlug": "n-nn-iex5ws8nnda",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "goodlabor",
+      "t": "Goodlabor™",
+      "by": "Jereme Wijesekera",
+      "bySlug": "jereme-wijesekera",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 3,
+        "bytes-and-bolts": 1,
+        "inputs-portals-interfaces": 1,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "graphic-form-ajpbawvmkei",
+      "t": "Graphic Form",
+      "by": "Skip Hursh",
+      "bySlug": "skip-hursh",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "harper-reminiscent",
+      "t": "harper reminiscent",
+      "by": "disfigured grace",
+      "bySlug": "disfigured-grace",
+      "n": 6,
+      "with": {
+        "cute-technologies": 1,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 2,
+        "poetronics": 2
+      }
+    },
+    {
+      "s": "holes-are-never-simply-absences",
+      "t": "holes are never simply absences",
+      "by": "Tamara Toth",
+      "bySlug": "tamara-toth",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "html-to-knit",
+      "t": "html to knit",
+      "by": "Giacomo Nanni",
+      "bySlug": "giacomo-nanni",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "industrial-design-museum",
+      "t": "Industrial Design Museum",
+      "by": "Taulant Sulko",
+      "bySlug": "taulant-sulko",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 2,
+        "poetronics": 1,
+        "wandering-traces": 1,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "information-architecture-qphe_p1assm",
+      "t": "Information Architecture",
+      "by": "Ramon Marc",
+      "bySlug": "ramon-marc",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "inspo-wkhrsvizesu",
+      "t": "inspo",
+      "by": "Tickie Bindner",
+      "bySlug": "tickie-bindner",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 2,
+        "cute-technologies": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "interfaces-mox8sxo0vfg",
+      "t": "INTERFACES 🫂",
+      "by": "Erin Murphy",
+      "bySlug": "erin-murphy-smslrgttt40",
+      "n": 6,
+      "with": {
+        "poetronics": 1,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "cute-technologies": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "internet-poetics",
+      "t": "internet poetics",
+      "by": "kim visda",
+      "bySlug": "kim-visda",
+      "n": 6,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 1,
+        "web-as-art-space-and-play": 3,
+        "solar-powered-servers": 1,
+        "temporal-mechanisms": 1
+      }
+    },
+    {
+      "s": "knowledge-and-networks-9r0xj6qebps",
+      "t": "Knowledge and Networks",
+      "by": "Internal Knowledge",
+      "bySlug": "internal-knowledge",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 3,
+        "checkmate-joyrxvsko1m": 1,
+        "inputs-portals-interfaces": 1,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "machine-knitting-uxuelpqvds0",
+      "t": "Machine Knitting",
+      "by": "Nina Muro",
+      "bySlug": "nina-muro",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "machine-world",
+      "t": "machine world",
+      "by": "Big Think Media",
+      "bySlug": "big-think-media-dhc5hiem5qa",
+      "n": 6,
+      "with": {
+        "poetronics": 2,
+        "wandering-traces": 3,
+        "of-bits-gates-and-logic": 1
+      }
+    },
+    {
+      "s": "multithreaded-inspo",
+      "t": "Multithreaded - Inspo",
+      "by": "Multithreaded",
+      "bySlug": "multithreaded",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "nuancier-nrsn-xqcyam",
+      "t": "nuancier",
+      "by": "Arthur Lou Németh",
+      "bySlug": "arthur-lou-nemeth",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "on-the-loom-weft",
+      "t": "on the loom; weft",
+      "by": "Lindsey Garretson",
+      "bySlug": "lindsey-garretson",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "pattern-k_hecr_atmy",
+      "t": "pattern",
+      "by": "mo mo",
+      "bySlug": "mo-mo-ah87o3banyk",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "pc-soepjax_oyw",
+      "t": "pc",
+      "by": "paula eloisa",
+      "bySlug": "paula-eloisa",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 1,
+        "cute-technologies": 1,
+        "of-bits-gates-and-logic": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "pleasures-meer65eh1aq",
+      "t": "Pleasures",
+      "by": "Forrest Huu Ta",
+      "bySlug": "forrest-huu-ta",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 1,
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "bytes-and-bolts": 1,
+        "alt-os-w7bwdpsnh4y": 1
+      }
+    },
+    {
+      "s": "pocket-tech",
+      "t": "Pocket Tech",
+      "by": "Ignacio Revoredo",
+      "bySlug": "ignacio-revoredo",
+      "n": 6,
+      "with": {
+        "poetronics": 1,
+        "inputs-portals-interfaces": 2,
+        "ctrl-textile": 1,
+        "cute-technologies": 2
+      }
+    },
+    {
+      "s": "random-ass-inspo",
+      "t": "random ass inspo",
+      "by": "Maria Pearl",
+      "bySlug": "maria-pearl",
+      "n": 6,
+      "with": {
+        "hand-held-tools": 1,
+        "poetronics": 1,
+        "inputs-portals-interfaces": 3,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "ref-4dfp3unwq_e",
+      "t": "ref",
+      "by": "fedya zhamo",
+      "bySlug": "fedya-zhamo",
+      "n": 6,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 2,
+        "checkmate-joyrxvsko1m": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "robopharma",
+      "t": "robopharma",
+      "by": "Yuval Albag",
+      "bySlug": "yuval-albag",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 3,
+        "poetronics": 1,
+        "ctrl-textile": 2
+      }
+    },
+    {
+      "s": "ruin-porn",
+      "t": "ruin porn",
+      "by": "Denis Buhai",
+      "bySlug": "denis-buhai",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 4,
+        "bytes-and-bolts": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "stuff-1527796446",
+      "t": "stuff",
+      "by": "s sh",
+      "bySlug": "s-sh",
+      "n": 6,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "ctrl-textile": 1,
+        "bytes-and-bolts": 1,
+        "cute-technologies": 2,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "systems-structures-8qalut907m4",
+      "t": "Systems – Structures",
+      "by": "ombreta vokopola ‎",
+      "bySlug": "ombreta-vokopola",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "tactile-resistance",
+      "t": "tactile resistance",
+      "by": "g ♡",
+      "bySlug": "g-svauq15ztgu",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "tech-qfdsj9inmma",
+      "t": "tech",
+      "by": "Jo Biscailuz",
+      "bySlug": "jo-biscailuz",
+      "n": 6,
+      "with": {
+        "poetronics": 2,
+        "of-bits-gates-and-logic": 1,
+        "cute-technologies": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "ctrl-textile": 2
+      }
+    },
+    {
+      "s": "textile-woven-u6iqelapxzk",
+      "t": "textile / woven",
+      "by": "Uma Dwivedi",
+      "bySlug": "uma-dwivedi",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "textile-and-electronics",
+      "t": "Textile and Electronics",
+      "by": "Beth Claxton",
+      "bySlug": "beth-claxton",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "textiles-_7xmqyqvbri",
+      "t": "textiles",
+      "by": "merna ☆",
+      "bySlug": "merna",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "textiles-exhibitions-documentations",
+      "t": "Textiles/Exhibitions/Documentations",
+      "by": "Ileana F.",
+      "bySlug": "ileana-f",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 5,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "thesising-gze7le6tu8",
+      "t": "thesising",
+      "by": "honauh l",
+      "bySlug": "honauh-l",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 1,
+        "material-language-inoby4kwyk0": 1,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "ui-research-intake",
+      "t": "ui research [intake]",
+      "by": "Jake Chvatal",
+      "bySlug": "jake-chvatal",
+      "n": 6,
+      "with": {
+        "inputs-portals-interfaces": 3,
+        "alt-os-w7bwdpsnh4y": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "weaving-feminin-futures",
+      "t": "weaving / feminin futures",
+      "by": "Hedvig Skjerdingstad",
+      "bySlug": "hedvig-skjerdingstad",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "weaving-women-computation",
+      "t": "weaving women & computation",
+      "by": "Puck Pruim",
+      "bySlug": "puck-pruim",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "weaving-cyber-feminism",
+      "t": "weaving(cyber)feminism",
+      "by": "Sóley Líndal",
+      "bySlug": "soley-lindal",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "wovenware",
+      "t": "wovenware",
+      "by": "leona -__-",
+      "bySlug": "leona-__",
+      "n": 6,
+      "with": {
+        "ctrl-textile": 6
+      }
+    },
+    {
+      "s": "www-m8gf9lga4by",
+      "t": "WWW",
+      "by": "Chia",
+      "bySlug": "chia",
+      "n": 6,
+      "with": {
+        "web-as-art-space-and-play": 4,
+        "alt-os-w7bwdpsnh4y": 2
+      }
+    },
+    {
+      "s": "filet-crochet-as-framework",
+      "t": "Filet Crochet as Framework",
+      "by": "Sara Omarsdottir",
+      "bySlug": "sara-omarsdottir",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "open-source-7py7q2mqvqw",
+      "t": "--OPEN SOURCE--",
+      "by": "Ema Tom",
+      "bySlug": "ema-tom",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "0-g-vis",
+      "t": ":[:0:G:VIS:]:",
+      "by": "Pola Małaczewska",
+      "bySlug": "pola-malaczewska",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 1,
+        "cute-technologies": 3,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "lovebomby-internet",
+      "t": "♡ lovebomby internet ♡",
+      "by": "Lara Gülbüke Kınay",
+      "bySlug": "lara-gulbuke-kinay",
+      "n": 5,
+      "with": {
+        "garden-of-nodes-and-links": 2,
+        "web-as-art-space-and-play": 3
+      }
+    },
+    {
+      "s": "patternpatternpattern",
+      "t": "⚜️ PatternPatternPattern",
+      "by": "Another Another",
+      "bySlug": "another-another",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "weaving-attention",
+      "t": "✸ Weaving Attention ✸",
+      "by": "Kathleen Quaintance",
+      "bySlug": "kathleen-quaintance",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "weave-it",
+      "t": "❖ weave it ❖",
+      "by": "Johanna Nethe",
+      "bySlug": "johanna-nethe",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "zero-eight-two-one",
+      "t": "0821",
+      "by": "Blank Resident",
+      "bySlug": "blank-resident",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "hand-held-tools": 1,
+        "ctrl-textile": 2,
+        "cute-technologies": 1
+      }
+    },
+    {
+      "s": "one-j77zz7hswsq",
+      "t": "1",
+      "by": "Artemis van Dorssen",
+      "bySlug": "artemis-van-dorssen",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "2d-motion-gif",
+      "t": "2D Motion GIF",
+      "by": "Alex Delker",
+      "bySlug": "alex-delker",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "ctrl-textile": 3
+      }
+    },
+    {
+      "s": "all-the-texts",
+      "t": "All the Texts",
+      "by": "Julie-Louise Zeitoun",
+      "bySlug": "julie-louise-zeitoun",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "angry-textiles-mlz9l_c-t3q",
+      "t": "angry textiles",
+      "by": "lea katharina",
+      "bySlug": "lea-katharina",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "archeology-of-cunty-electronics",
+      "t": "Archeology of cunty electronics",
+      "by": "Extreme Girl",
+      "bySlug": "extreme-girl",
+      "n": 5,
+      "with": {
+        "wandering-traces": 2,
+        "cute-technologies": 1,
+        "poetronics": 1,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "ascii-grid-mono-unicode",
+      "t": "ascii grid mono unicode",
+      "by": "Vogue New Zealand",
+      "bySlug": "vogue-new-zealand",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "artyping": 1
+      }
+    },
+    {
+      "s": "bot-channel-for-bots",
+      "t": "bot channel for bots",
+      "by": "Isabelle Cordero",
+      "bySlug": "isabelle-cordero",
+      "n": 5,
+      "with": {
+        "hand-held-tools": 1,
+        "cute-technologies": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "poetronics": 2,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "bubblegum-tech-vegetation-mist",
+      "t": "bubblegum tech vegetation mist 𖥽 ೃ࿔",
+      "by": "Jessina Lö",
+      "bySlug": "jessina-lo",
+      "n": 5,
+      "with": {
+        "cute-technologies": 5
+      }
+    },
+    {
+      "s": "can-you-feel-it-fy-mpa6wtg0",
+      "t": "can-you-feel-it?",
+      "by": "jayden nguyen",
+      "bySlug": "jayden-nguyen",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "cute-technologies": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "chess-as-__________",
+      "t": "chess as __________?",
+      "by": "amelia magee",
+      "bySlug": "amelia-magee",
+      "n": 5,
+      "with": {
+        "checkmate-joyrxvsko1m": 5
+      }
+    },
+    {
+      "s": "chess-gallery",
+      "t": "chess gallery",
+      "by": "AlephOneLabs",
+      "bySlug": "alephonelabs",
+      "n": 5,
+      "with": {
+        "checkmate-joyrxvsko1m": 5
+      }
+    },
+    {
+      "s": "computational-landscapes",
+      "t": "computational landscapes | ~ |",
+      "by": "Jupiter G",
+      "bySlug": "jupiter-g",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 2,
+        "inputs-portals-interfaces": 3
+      }
+    },
+    {
+      "s": "computing-fabrics-acflktdpgp4",
+      "t": "computing fabrics",
+      "by": "cindy qiao",
+      "bySlug": "cindy-qiao-rkppq01jsfc",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "craft-gvxw-6cjgtu",
+      "t": "CRAFT",
+      "by": "Anna Chandler",
+      "bySlug": "anna-chandler",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "ctrl-textile": 3,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "cyborg-condnrcnnwa",
+      "t": "cyborg",
+      "by": "darcy r",
+      "bySlug": "darcy-r",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 3,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "dec-2024-may-2025-devotion-body-bodies-circuits-community-code-etc-etc",
+      "t": "Dec 2024 - May 2025 (devotion/body/bodies/circuits/community/code etc. etc. )",
+      "by": "Red de Rooij",
+      "bySlug": "red-de-rooij",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "digitalconsumption-derogatory",
+      "t": "digitalconsumption(derogatory)",
+      "by": "WILLIAM HSU",
+      "bySlug": "william-hsu",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 2,
+        "wandering-traces": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "diluvium",
+      "t": "diluvium",
+      "by": "Barbs Art",
+      "bySlug": "barbs-art",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "e-poetry-e-literature",
+      "t": "e-poetry, e-literature",
+      "by": "zmeeeeeva —",
+      "bySlug": "zmeeeeeva",
+      "n": 5,
+      "with": {
+        "electronic-text-9bez9uok3la": 5
+      }
+    },
+    {
+      "s": "electric-calm",
+      "t": "electric calm",
+      "by": "meirisoda (soda)",
+      "bySlug": "meirisoda-soda",
+      "n": 5,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 1,
+        "cute-technologies": 2,
+        "soft-computing-qsqjyw9wgwc": 2
+      }
+    },
+    {
+      "s": "fiber-art-cx_0a184-ly",
+      "t": "fiber art",
+      "by": "E M",
+      "bySlug": "e-m-5p6s1dqdu0e",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "fiber-arts-le3qtcsedwc",
+      "t": "fiber arts",
+      "by": "Amelia Wilson",
+      "bySlug": "amelia-wilson-pwlpxxxipvg",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "foraging-zhk498mugq8",
+      "t": "foraging",
+      "by": "hila shifra",
+      "bySlug": "hila-shifra",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 2,
+        "inputs-portals-interfaces": 2,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "general-interest-motion",
+      "t": "general interest/motion",
+      "by": "Felicia Hwang",
+      "bySlug": "felicia-hwang",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "gif-stash",
+      "t": "Gif Stash",
+      "by": "r s",
+      "bySlug": "r-s-0x2pirekijo",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "temporal-mechanisms": 1,
+        "cute-technologies": 1,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "god-s-breath-is-fire-on-my-skin-jqpgldyzsbm",
+      "t": "god's breath is fire on my skin",
+      "by": "liyv ❦",
+      "bySlug": "liyv",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 3,
+        "poetronics": 1,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "grafik-j9_shkfbj2e",
+      "t": "grafik",
+      "by": "hugo von hofsten",
+      "bySlug": "hugo-von-hofsten",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "graphic-unit",
+      "t": "graphic*unit",
+      "by": "chris yu jang",
+      "bySlug": "chris-yu-jang",
+      "n": 5,
+      "with": {
+        "alt-os-w7bwdpsnh4y": 1,
+        "ctrl-textile": 3,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "grid-systems-references-unsorted",
+      "t": "GRID SYSTEMS (references) [unsorted]",
+      "by": "nobody's archive",
+      "bySlug": "nobody-s-archive",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "hitch-hj9qtrofwig",
+      "t": "hitch",
+      "by": "anna matuella",
+      "bySlug": "anna-matuella",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "i-demand-whimsy-in-product-design-aka-wishlist",
+      "t": "i demand whimsy in product design AKA wishlist ▪︎",
+      "by": "Jade Melendez",
+      "bySlug": "jade-melendez",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 3,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "inputs-portals-interfaces": 1,
+        "soft-and-cute-robotics": 1
+      }
+    },
+    {
+      "s": "ideometry",
+      "t": "Ideometry",
+      "by": "Randy Roberts",
+      "bySlug": "randy-roberts",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 3,
+        "ctrl-textile": 2
+      }
+    },
+    {
+      "s": "idk-but-i-like-it",
+      "t": "idk but I like it",
+      "by": "Casey y",
+      "bySlug": "casey-y",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 2,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "insert-disc-eu342koiitk",
+      "t": "insert disc",
+      "by": "tranquility 2099",
+      "bySlug": "tranquility-2099",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 1,
+        "poetronics": 1,
+        "bytes-and-bolts": 1,
+        "cute-technologies": 2
+      }
+    },
+    {
+      "s": "inspi-dsgn",
+      "t": "Inspi [Dsgn]",
+      "by": "Rodrigo Rojo de la Torre",
+      "bySlug": "rodrigo-rojo-de-la-torre",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "ctrl-textile": 1,
+        "cute-technologies": 2
+      }
+    },
+    {
+      "s": "inspiration-16wdghg252c",
+      "t": "INSPIRATION",
+      "by": "Fin Tams-Gray",
+      "bySlug": "fin-tams-gray",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 1,
+        "soft-computing-qsqjyw9wgwc": 3,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "inspo-lasoj6nlgpy",
+      "t": "inspo",
+      "by": "Auri Nox",
+      "bySlug": "auri-nox",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "material-language-inoby4kwyk0": 1,
+        "web-as-art-space-and-play": 2
+      }
+    },
+    {
+      "s": "knots-hau4k3t0jxo",
+      "t": "knots",
+      "by": "Giulia Nicolai",
+      "bySlug": "giulia-nicolai",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "l8r-z3hejica_e",
+      "t": "L8R",
+      "by": "maggie dee",
+      "bySlug": "maggie-dee",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "lays-1",
+      "t": "lays +1",
+      "by": "n r",
+      "bySlug": "n-r-yngpe4-5mxm",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "let-me-be-clear",
+      "t": "let me be clear",
+      "by": "l⃣ u⃣ n⃣ a⃣ n⃣ a⃣ u⃣ l⃣ i⃣",
+      "bySlug": "l-u-n-a-n-a-u-l-i",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 3,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "loom-programming-environment",
+      "t": "Loom Programming Environment",
+      "by": "Patrick Steppan",
+      "bySlug": "patrick-steppan",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "materialisation-z62atbk5vdi",
+      "t": "Materialisation",
+      "by": "Nicola Silja",
+      "bySlug": "nicola-silja",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "my-ig-liked-posts-but-make-it-are-na",
+      "t": "My IG Liked Posts but Make It Are.na",
+      "by": "Hannah Suzanna",
+      "bySlug": "hannah-suzanna",
+      "n": 5,
+      "with": {
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "ctrl-textile": 2,
+        "checkmate-joyrxvsko1m": 1
+      }
+    },
+    {
+      "s": "nat-hoffman-work",
+      "t": "nat hoffman work",
+      "by": "Natalie Hoffman",
+      "bySlug": "natalie-hoffman",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "needlework-jpg",
+      "t": "needlework.jpg",
+      "by": "third earth",
+      "bySlug": "third-earth",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "non-entity-thesis-writing",
+      "t": "non-entity thesis writing 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃",
+      "by": "Chloe Lee ˗ˏˋ ★ ˎˊ˗",
+      "bySlug": "chloe-lee-jnsrs-ptst0",
+      "n": 5,
+      "with": {
+        "hand-held-tools": 2,
+        "bytes-and-bolts": 1,
+        "inputs-portals-interfaces": 1,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "ooo-whj-vrcceo0",
+      "t": "ooo",
+      "by": "Anh Tran",
+      "bySlug": "anh-tran-smykb3iqjeu",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 3,
+        "bytes-and-bolts": 1,
+        "alt-os-w7bwdpsnh4y": 1
+      }
+    },
+    {
+      "s": "pattern-tesselation",
+      "t": "pattern – tesselation",
+      "by": "Jo Lang",
+      "bySlug": "jo-lang",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "patterns-eb89ai0-y-e",
+      "t": "Patterns",
+      "by": "Emma H",
+      "bySlug": "emma-h--2",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "pinboard-mix-2022-now",
+      "t": "pinboard mix 2022-now",
+      "by": "Lina Kaltenberg",
+      "bySlug": "lina-kaltenberg",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "pixl_garden",
+      "t": "pixl_garden",
+      "by": "kit gore",
+      "bySlug": "kit-gore",
+      "n": 5,
+      "with": {
+        "bytes-and-bolts": 1,
+        "ctrl-textile": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "post-industrial-primitivism",
+      "t": "Post Industrial Primitivism",
+      "by": "Ashton Henning",
+      "bySlug": "ashton-henning",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "inputs-portals-interfaces": 1,
+        "checkmate-joyrxvsko1m": 1,
+        "ctrl-textile": 1,
+        "wandering-traces": 1
+      }
+    },
+    {
+      "s": "pretty-machines",
+      "t": "Pretty machines",
+      "by": "Maya Man",
+      "bySlug": "maya-man",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "soft-computing-qsqjyw9wgwc": 2,
+        "cute-technologies": 2
+      }
+    },
+    {
+      "s": "research-2025-present",
+      "t": "Research [2025-Present]",
+      "by": "Saeed Ferguson",
+      "bySlug": "saeed-ferguson",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "ctrl-textile": 2,
+        "material-language-inoby4kwyk0": 1,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "rituals-and-thanksgiving",
+      "t": "Rituals and Thanksgiving",
+      "by": "Lorena Haguiara",
+      "bySlug": "lorena-haguiara-hn3wzfeif6q",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "solar-powered-servers": 1
+      }
+    },
+    {
+      "s": "scientific-research-and-documentation",
+      "t": "Scientific: Research and Documentation",
+      "by": "Raina Wellman",
+      "bySlug": "raina-wellman",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 4,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "sentience-nwztm4tguik",
+      "t": "SENTIENCE",
+      "by": "David Rege",
+      "bySlug": "david-rege",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 2,
+        "of-bits-gates-and-logic": 2,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "sheila-hicks-research",
+      "t": "Sheila Hicks Research",
+      "by": "Travess Smalley",
+      "bySlug": "travess-smalley",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "stuff-nbnjjqnhhns",
+      "t": "Stuff",
+      "by": "Julie Alter",
+      "bySlug": "julie-alter",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "inputs-portals-interfaces": 2,
+        "ctrl-textile": 1,
+        "temporal-mechanisms": 1
+      }
+    },
+    {
+      "s": "tactility-k7glw3vkjnu",
+      "t": "Tactility",
+      "by": "Anne Marie Tarrasson Hove",
+      "bySlug": "anne-marie-tarrasson-hove",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "tech-debt-8rrd39c8wzs",
+      "t": "tech debt",
+      "by": "Jordan Clarke",
+      "bySlug": "jordan-clarke",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 4,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "tech-gear-rqbpbxb6gge",
+      "t": "tech gear 𖠗𖠗 ☐",
+      "by": "Jessina Lö",
+      "bySlug": "jessina-lo",
+      "n": 5,
+      "with": {
+        "cute-technologies": 5
+      }
+    },
+    {
+      "s": "teeth-h76rqaphn24",
+      "t": "Teeth",
+      "by": "Abeer Sultan",
+      "bySlug": "abeer-sultan",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "tex-738aqveplwi",
+      "t": "TEX",
+      "by": "Marie Channac",
+      "bySlug": "marie-channac",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "text-textile-craft-care",
+      "t": "Text / Textile // Craft / Care",
+      "by": "Elisabeth Deák 🌱",
+      "bySlug": "elisabeth-deak",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "text-textile-texture",
+      "t": "Text Textile Texture",
+      "by": "Helene Jantzen",
+      "bySlug": "helene-jantzen",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textile-d-une-toile-tendue-comme-un-derme-a-vif",
+      "t": "textile - d’une toile tendue comme un derme à vif",
+      "by": "camille XXX",
+      "bySlug": "camille-xxx",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textile-computation",
+      "t": "textile & computation /////",
+      "by": "Berni K",
+      "bySlug": "berni-k",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textile-textile-coding-coding",
+      "t": "textile textile coding coding",
+      "by": "Desirée Veschetti",
+      "bySlug": "desiree-veschetti",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textiles-qars1tjt3y8",
+      "t": "Textiles",
+      "by": "Andrea Miller",
+      "bySlug": "andrea-miller-5c6unjv-tem",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textiles-kkxa-td16po",
+      "t": "TEXTILES",
+      "by": "Sofía García",
+      "bySlug": "sofia-garcia-ihqwttxnt1y",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "textureeee-jh_4adt3wg0",
+      "t": "textureeee",
+      "by": "Nathan Riebel 🎱",
+      "bySlug": "nathan-riebel-9a3ifnd60qy",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "thinking-3sipmsgd018",
+      "t": "thinking",
+      "by": "Emily Holtzman",
+      "bySlug": "emily-holtzman",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "this-is-where-i-post-from",
+      "t": "this is where I post from",
+      "by": "Heintz Beckner",
+      "bySlug": "heintz-beckner",
+      "n": 5,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 2,
+        "inputs-portals-interfaces": 2,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "thread-and-bits",
+      "t": "thread and bits",
+      "by": "Nabito Sun",
+      "bySlug": "nabito-sun",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "unrelated-randomised-research-blackhole",
+      "t": "unrelated/randomised research blackhole",
+      "by": "louie .pdf",
+      "bySlug": "louie-pdf",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 3,
+        "of-bits-gates-and-logic": 1,
+        "material-language-inoby4kwyk0": 1
+      }
+    },
+    {
+      "s": "weaving-e3ntrbzj218",
+      "t": "weaving",
+      "by": "Alejandra Lopez",
+      "bySlug": "alejandra-lopez",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "weaving-00zxt_d3r4w",
+      "t": "weaving",
+      "by": "Eunkyeoung Cho",
+      "bySlug": "eunkyeoung-cho",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "weaving-the-threads-of-my-being",
+      "t": "weaving the threads of my being",
+      "by": "networms 蚯蚓",
+      "bySlug": "networms",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "web-refs-grlmaoildyw",
+      "t": "web refs",
+      "by": "clara pereira",
+      "bySlug": "clara-pereira-rhwt70eqqkq",
+      "n": 5,
+      "with": {
+        "electronic-text-9bez9uok3la": 1,
+        "web-as-art-space-and-play": 4,
+        "hand-held-tools": 1
+      }
+    },
+    {
+      "s": "what-is-happening-iwcfnx529e8",
+      "t": "what is happening",
+      "by": "denise marie",
+      "bySlug": "denise-marie",
+      "n": 5,
+      "with": {
+        "electronic-text-9bez9uok3la": 1,
+        "ctrl-textile": 3,
+        "web-as-art-space-and-play": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "yarn-g5wjuoos_ca",
+      "t": "yarn",
+      "by": "ashley gurr",
+      "bySlug": "ashley-gurr-0fc0dckricy",
+      "n": 5,
+      "with": {
+        "ctrl-textile": 5
+      }
+    },
+    {
+      "s": "yes-and-qkrnz9yhkg",
+      "t": "yes and",
+      "by": "c ynn",
+      "bySlug": "c-ynn",
+      "n": 5,
+      "with": {
+        "checkmate-joyrxvsko1m": 1,
+        "of-bits-gates-and-logic": 1,
+        "open-sourcery": 1,
+        "material-language-inoby4kwyk0": 1,
+        "alt-os-w7bwdpsnh4y": 1
+      }
+    },
+    {
+      "s": "you-can-t-move-me",
+      "t": "YOU CAN'T MOVE ME",
+      "by": "G A V I N",
+      "bySlug": "g-a-v-i-n",
+      "n": 5,
+      "with": {
+        "poetronics": 1,
+        "ctrl-textile": 2,
+        "temporal-mechanisms": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "zoracle-gifs",
+      "t": "zoracle (gifs)",
+      "by": "zoracle.life ✶✶",
+      "bySlug": "zoracle-life",
+      "n": 5,
+      "with": {
+        "inputs-portals-interfaces": 4,
+        "soft-computing-qsqjyw9wgwc": 1
+      }
+    },
+    {
+      "s": "underscore-q_fl2c8-ll0",
+      "t": "_○",
+      "by": "Victoria Punturere",
+      "bySlug": "victoria-punturere-ghfws65s50",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "period-tg_btdagsvm",
+      "t": ".",
+      "by": ". tar.into .",
+      "bySlug": "tar-into",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 3,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "two-one-zero-zero",
+      "t": "\"2100\"",
+      "by": "谢 yutong da luzhou",
+      "bySlug": "yutong-da-luzhou",
+      "n": 4,
+      "with": {
+        "temporal-mechanisms": 1,
+        "ctrl-textile": 2,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "a-symmetry-pattern-formation-replication",
+      "t": "(a) symmetry, pattern formation, replication",
+      "by": "Polina Lobanova",
+      "bySlug": "polina-lobanova",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "research-thesis-knitt3d",
+      "t": "[research] thesis: knitt3d",
+      "by": "sara ⌾",
+      "bySlug": "sara-xykmsvwhps",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "frontier-8toh2bf6ocu",
+      "t": "* Frontier",
+      "by": "Trinity S",
+      "bySlug": "trinity-s",
+      "n": 4,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "soft-computing-qsqjyw9wgwc": 2
+      }
+    },
+    {
+      "s": "ieee-g_d9wpty7oe",
+      "t": "*️⃣ IEEE",
+      "by": "Pentagram Team GL",
+      "bySlug": "pentagram-team-gl",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 1,
+        "wandering-traces": 2,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "illust",
+      "t": "* ILLUST",
+      "by": "James Casey",
+      "bySlug": "james-casey",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "kiyo-o",
+      "t": "* kiyo *o*",
+      "by": "wanyu _",
+      "bySlug": "wanyu-_",
+      "n": 4,
+      "with": {
+        "cute-technologies": 4,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "absurditi",
+      "t": "＊*•̩̩͙✩•̩̩͙*˚ABSURDITI˚*•̩̩͙✩•̩̩͙*˚＊",
+      "by": "amy cho",
+      "bySlug": "amy-cho",
+      "n": 4,
+      "with": {
+        "poetronics": 1,
+        "cute-technologies": 1,
+        "ctrl-textile": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "hash-hash-hash-ymwk9tgzfyi",
+      "t": "###",
+      "by": "aisha love",
+      "bySlug": "aisha-love",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "_-ilustra-_",
+      "t": "•._.·* ilustra *·._.•",
+      "by": "letícia de cássia",
+      "bySlug": "leticia-de-cassia",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 2,
+        "bytes-and-bolts": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "world-wide-weave",
+      "t": "※ world wide weave",
+      "by": "Louis Graham",
+      "bySlug": "louis-graham",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "anarchive-u4zorkk7k_w",
+      "t": "~ anarchive",
+      "by": "Kian Park",
+      "bySlug": "kian-park",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 2,
+        "inputs-portals-interfaces": 2
+      }
+    },
+    {
+      "s": "plus-frof3ehotrk",
+      "t": "■ɢᴅ+ᴍ",
+      "by": "Eric Pautz",
+      "bySlug": "eric-pautz",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 4
+      }
+    },
+    {
+      "s": "block-sniowtwdhiw",
+      "t": "☀♥⚠ block ⌘⬆",
+      "by": "sasha barabonova",
+      "bySlug": "sasha-barabonova",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 1,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "alt-os-w7bwdpsnh4y": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "3d-asf-3",
+      "t": "3D ASF (3)",
+      "by": "maxim ⬤",
+      "bySlug": "maxim-tamjkuiabg",
+      "n": 4,
+      "with": {
+        "poetronics": 1,
+        "cute-technologies": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "soft-and-cute-robotics": 1
+      }
+    },
+    {
+      "s": "computer-fundamentals",
+      "t": "computer fundamentals",
+      "by": "k g-t",
+      "bySlug": "k-g-t",
+      "n": 4,
+      "with": {
+        "of-bits-gates-and-logic": 4
+      }
+    },
+    {
+      "s": "concept-time-k0reyd3ifbo",
+      "t": "concept | time",
+      "by": "Laura Sinisterra",
+      "bySlug": "symbolicxchange",
+      "n": 4,
+      "with": {
+        "temporal-mechanisms": 4
+      }
+    },
+    {
+      "s": "cybernetics-qvg3mlbadyu",
+      "t": "cybernetics",
+      "by": "Kim Plowright",
+      "bySlug": "kim-plowright",
+      "n": 4,
+      "with": {
+        "garden-of-nodes-and-links": 3,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "electric-myths-by-daniel-murray",
+      "t": "Electric Myths (by Daniel Murray)",
+      "by": "Are.na Editorial",
+      "bySlug": "are-na-editorial",
+      "n": 4,
+      "with": {
+        "web-as-art-space-and-play": 1,
+        "garden-of-nodes-and-links": 3
+      }
+    },
+    {
+      "s": "gui-dream",
+      "t": "gui dream",
+      "by": "Joshua Kopin",
+      "bySlug": "joshua-kopin",
+      "n": 4,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 2,
+        "miscellaneous-operators": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "manifesto-xls8f4iwrrc",
+      "t": "manifesto",
+      "by": "Desirée Solenberger",
+      "bySlug": "desiree-solenberger-znsdj2_jvt4",
+      "n": 4,
+      "with": {
+        "garden-of-nodes-and-links": 4
+      }
+    },
+    {
+      "s": "moot-hoard",
+      "t": "Moot Hoard",
+      "by": "Roberto Greco",
+      "bySlug": "roberto-greco",
+      "n": 4,
+      "with": {
+        "ctrl-textile": 3,
+        "miscellaneous-operators": 1
+      }
+    },
+    {
+      "s": "tools-as-a-process",
+      "t": "Tools as a process",
+      "by": "Amber Bridge",
+      "bySlug": "amber-bridge",
+      "n": 4,
+      "with": {
+        "hand-held-tools": 2,
+        "soft-computing-qsqjyw9wgwc": 1,
+        "bytes-and-bolts": 1
+      }
+    },
+    {
+      "s": "useful-bgy31uyh9sg",
+      "t": "useful",
+      "by": "Alanna Okun",
+      "bySlug": "alanna-okun",
+      "n": 4,
+      "with": {
+        "material-language-inoby4kwyk0": 2,
+        "bytes-and-bolts": 1,
+        "alt-os-w7bwdpsnh4y": 1
+      }
+    },
+    {
+      "s": "becoming-hypertext",
+      "t": "*Becoming hypertext",
+      "by": "Chia",
+      "bySlug": "chia",
+      "n": 3,
+      "with": {
+        "garden-of-nodes-and-links": 3
+      }
+    },
+    {
+      "s": "chandler-uhdnuktetva",
+      "t": "chandler",
+      "by": "Rosalie Maguire",
+      "bySlug": "rosalie-maguire",
+      "n": 3,
+      "with": {
+        "bytes-and-bolts": 3
+      }
+    },
+    {
+      "s": "dame-una-rama-y-le-dare-sentido",
+      "t": "Dame una rama y le daré sentido",
+      "by": "𝐚𝐦𝐨r ~·:| ⡷⠂〇º ° •.⠐⢾ |:·~ 𝐚𝐬𝐢𝐧𝐭ó𝐭𝐢𝐜𝐨",
+      "bySlug": "r-o-lz7zrpb6zgk",
+      "n": 3,
+      "with": {
+        "electronic-text-9bez9uok3la": 2,
+        "garden-of-nodes-and-links": 1
+      }
+    },
+    {
+      "s": "domitillemc",
+      "t": "domitillemc",
+      "by": "Sasha Lee",
+      "bySlug": "sasha-lee-0xlrrcsceig",
+      "n": 3,
+      "with": {
+        "wandering-traces": 3
+      }
+    },
+    {
+      "s": "e-texts",
+      "t": "e-texts",
+      "by": "Max Arena",
+      "bySlug": "max-arena",
+      "n": 3,
+      "with": {
+        "electronic-text-9bez9uok3la": 3
+      }
+    },
+    {
+      "s": "electronics-urx7nld1tcw",
+      "t": "Electronics",
+      "by": "Dizzmil .",
+      "bySlug": "dizzmil",
+      "n": 3,
+      "with": {
+        "wandering-traces": 1,
+        "bytes-and-bolts": 2
+      }
+    },
+    {
+      "s": "hypertext-1rpmm3tdda",
+      "t": "hypertext",
+      "by": "ellie madsen",
+      "bySlug": "ellie-madsen-t_ijbndszli",
+      "n": 3,
+      "with": {
+        "garden-of-nodes-and-links": 3
+      }
+    },
+    {
+      "s": "jean-pluto",
+      "t": "Jean Pluto",
+      "by": "* lucky *",
+      "bySlug": "lucky",
+      "n": 3,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "cute-technologies": 1,
+        "soft-and-cute-robotics": 1,
+        "inputs-portals-interfaces": 1
+      }
+    },
+    {
+      "s": "mybookshelf",
+      "t": "mybookshelf",
+      "by": "electric vehicle",
+      "bySlug": "electric-vehicle",
+      "n": 3,
+      "with": {
+        "ctrl-textile": 1,
+        "solar-powered-servers": 2
+      }
+    },
+    {
+      "s": "no-hot-dog-today",
+      "t": "no hot dog today",
+      "by": "Pamela Santiago",
+      "bySlug": "pamela-santiago",
+      "n": 3,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "temporal-mechanisms": 2
+      }
+    },
+    {
+      "s": "put-it-all-together",
+      "t": "put it all together",
+      "by": "isaac _-",
+      "bySlug": "isaac-_",
+      "n": 3,
+      "with": {
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "miscellaneous-operators": 1
+      }
+    },
+    {
+      "s": "random-to-read-not-sorted-tabs-i-keep-open-links-shared-with-me",
+      "t": "random to read / not sorted / tabs i keep open / links shared with me",
+      "by": "anne lee steele",
+      "bySlug": "anne-lee-steele",
+      "n": 3,
+      "with": {
+        "electronic-text-9bez9uok3la": 2,
+        "ctrl-textile": 1
+      }
+    },
+    {
+      "s": "ref-e3aiqoipcm0",
+      "t": "ref",
+      "by": "Sasha Lee",
+      "bySlug": "sasha-lee-0xlrrcsceig",
+      "n": 3,
+      "with": {
+        "wandering-traces": 3
+      }
+    },
+    {
+      "s": "root-7e8bzel1guc",
+      "t": "root",
+      "by": "Laura Winn",
+      "bySlug": "laura-winn",
+      "n": 3,
+      "with": {
+        "ctrl-textile": 1,
+        "cute-technologies": 1,
+        "the-soft-computer": 1
+      }
+    },
+    {
+      "s": "simulacra-x_4xlq9e6wg",
+      "t": "simulacra",
+      "by": "ori ( ♤ )",
+      "bySlug": "ori",
+      "n": 3,
+      "with": {
+        "inputs-portals-interfaces": 2,
+        "artyping": 1
+      }
+    },
+    {
+      "s": "there-s-more-to-being-useful",
+      "t": "there’s more to being useful",
+      "by": "isaac _-",
+      "bySlug": "isaac-_",
+      "n": 3,
+      "with": {
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 1,
+        "miscellaneous-operators": 1
+      }
+    },
+    {
+      "s": "time-c4bnbfzul8u",
+      "t": "Time",
+      "by": "Roberto Greco",
+      "bySlug": "roberto-greco",
+      "n": 3,
+      "with": {
+        "temporal-mechanisms": 3
+      }
+    },
+    {
+      "s": "time-sjfxejivtsw",
+      "t": "time",
+      "by": "Alanna Okun",
+      "bySlug": "alanna-okun",
+      "n": 3,
+      "with": {
+        "temporal-mechanisms": 3
+      }
+    },
+    {
+      "s": "wrap-it-up-b",
+      "t": "wrap it up b",
+      "by": "na hyun kim",
+      "bySlug": "na-hyun-kim",
+      "n": 3,
+      "with": {
+        "cute-technologies": 2,
+        "cyberdeck-exe-9tnkemv_c50": 2,
+        "poetronics": 1
+      }
+    },
+    {
+      "s": "zines-bookbinding",
+      "t": "Zines + Bookbinding",
+      "by": "jorie w",
+      "bySlug": "jorie-w",
+      "n": 3,
+      "with": {
+        "of-bits-gates-and-logic": 1,
+        "solar-powered-servers": 2
+      }
+    },
+    {
+      "s": "sculpture-23-11",
+      "t": "♢ Sculpture 23.11",
+      "by": "Reid Surmeier •~*",
+      "bySlug": "reid-surmeier",
+      "n": 2,
+      "with": {
+        "soft-computing-qsqjyw9wgwc": 1,
+        "tiny-computers": 1
+      }
+    },
+    {
+      "s": "creative-code-3qxz6v2n-0w",
+      "t": "❐ creative code〚▧〛",
+      "by": "| Moss |",
+      "bySlug": "moss-xbp9dz9c5t4",
+      "n": 2,
+      "with": {
+        "electronic-text-9bez9uok3la": 2
+      }
+    },
+    {
+      "s": "tools-4g3soviqubs",
+      "t": "🪜 tools",
+      "by": "flavie liu",
+      "bySlug": "flavie-liu",
+      "n": 2,
+      "with": {
+        "hand-held-tools": 2
+      }
+    },
+    {
+      "s": "cool-for-school",
+      "t": "cool for school",
+      "by": "jesse thompson",
+      "bySlug": "jesse-thompson-gykf2ympffq",
+      "n": 2,
+      "with": {
+        "solar-powered-servers": 2
+      }
+    },
+    {
+      "s": "from-sun-to-cell",
+      "t": "From Sun to Cell",
+      "by": "WINT Design Lab",
+      "bySlug": "wint-design-lab",
+      "n": 2,
+      "with": {
+        "solar-powered-servers": 2
+      }
+    },
+    {
+      "s": "graphic_inventory",
+      "t": "graphic_inventory",
+      "by": "JiL _",
+      "bySlug": "jil-_",
+      "n": 2,
+      "with": {
+        "bytes-and-bolts": 2
+      }
+    },
+    {
+      "s": "literary-digi-rabbit-hole",
+      "t": "Literary Digi-Rabbit-Hole",
+      "by": "Alexander Rivera",
+      "bySlug": "alexander-rivera",
+      "n": 2,
+      "with": {
+        "hand-held-tools": 2
+      }
+    },
+    {
+      "s": "sampled-perhaps",
+      "t": "sampled, perhaps",
+      "by": "c ynn",
+      "bySlug": "c-ynn",
+      "n": 2,
+      "with": {
+        "open-sourcery": 1,
+        "the-soft-computer": 1
+      }
+    },
+    {
+      "s": "sound-semiotics",
+      "t": "sound semiotics",
+      "by": "Victor Mark",
+      "bySlug": "victor-mark",
+      "n": 2,
+      "with": {
+        "inputs-portals-interfaces": 1,
+        "s-nime": 1
+      }
+    },
+    {
+      "s": "tools-sources",
+      "t": "Tools & Sources 👨💻",
+      "by": "Jerry Wang",
+      "bySlug": "jerry-wang-rct4ggu1noe",
+      "n": 2,
+      "with": {
+        "open-sourcery": 1,
+        "web-as-art-space-and-play": 1
+      }
+    },
+    {
+      "s": "cool-blocks-on-are-na",
+      "t": "☆ Cool Blocks on Are.na",
+      "by": "Elias Andrés Taborda",
+      "bySlug": "elias-andres-taborda",
+      "n": 1,
+      "with": {
+        "tender-circuits": 1,
+        "cyberdeck-exe-9tnkemv_c50": 1
+      }
+    },
+    {
+      "s": "collection-txjrgwwau-i",
+      "t": "Collection",
+      "by": "Franky Hill",
+      "bySlug": "franky-hill",
+      "n": 1,
+      "with": {
+        "miscellaneous-operators": 1
+      }
+    },
+    {
+      "s": "cpu-8vtppb7gnna",
+      "t": "CPU",
+      "by": "liza stark",
+      "bySlug": "liza-stark",
+      "n": 1,
+      "with": {
+        "tender-circuits": 1
+      }
+    },
+    {
+      "s": "cyberdesk",
+      "t": "cyberdesk",
+      "by": "Francisca Meza",
+      "bySlug": "francisca-meza",
+      "n": 1,
+      "with": {
+        "tender-circuits": 1
+      }
+    },
+    {
+      "s": "design-tool-_f8oqc3cuyy",
+      "t": "design tool",
+      "by": "Jeffry Diaz Schmidt",
+      "bySlug": "jeffry-diaz-schmidt",
+      "n": 1,
+      "with": {
+        "open-sourcery": 1
+      }
+    },
+    {
+      "s": "docs-links",
+      "t": "docs/links",
+      "by": "ilia spark",
+      "bySlug": "ilia-spark",
+      "n": 1,
+      "with": {
+        "open-sourcery": 1
+      }
+    },
+    {
+      "s": "laptop-a_ymp6jjvwc",
+      "t": "laptop",
+      "by": "c ynn",
+      "bySlug": "c-ynn",
+      "n": 1,
+      "with": {
+        "open-sourcery": 1
+      }
+    },
+    {
+      "s": "meaningful-tech",
+      "t": "Meaningful Tech",
+      "by": "Ian Glennon",
+      "bySlug": "ian-glennon",
+      "n": 1,
+      "with": {
+        "s-nime": 1
+      }
+    },
+    {
+      "s": "techware-te_j8ixcjzq",
+      "t": "techware",
+      "by": "amilleah ‏",
+      "bySlug": "amilleah",
+      "n": 1,
+      "with": {
+        "tiny-computers": 1
+      }
+    }
+  ],
+  "counts": {
+    "1946": 40,
+    "113382": 23,
+    "113790": 40,
+    "148104": 15,
+    "171682": 38,
+    "182183": 15,
+    "184783": 26,
+    "193405": 271,
+    "287196": 48,
+    "314492": 12,
+    "319067": 8,
+    "386094": 4,
+    "405192": 36,
+    "406539": 22,
+    "488440": 123,
+    "488471": 60,
+    "619216": 16,
+    "662383": 119,
+    "779210": 14,
+    "788376": 314,
+    "897377": 35,
+    "908649": 166,
+    "943474": 206,
+    "965723": 50,
+    "1071918": 18,
+    "1089346": 151,
+    "1092219": 234,
+    "1146648": 8,
+    "1188270": 344,
+    "1209463": 53,
+    "1295705": 50,
+    "1357801": 2,
+    "1365898": 46,
+    "1370819": 16,
+    "1381242": 42,
+    "1470379": 158,
+    "1481819": 4,
+    "1482712": 22,
+    "1531845": 33,
+    "1604242": 18,
+    "1690848": 91,
+    "1691860": 55,
+    "1705890": 10,
+    "1974337": 576,
+    "2052054": 21,
+    "2096028": 35,
+    "2096079": 4,
+    "2096115": 21,
+    "2096150": 16,
+    "2096155": 14,
+    "2148336": 126,
+    "2148666": 3,
+    "2148669": 9,
+    "2353332": 13,
+    "2447351": 122,
+    "2491824": 105,
+    "2703366": 62,
+    "2711890": 102,
+    "2714517": 81,
+    "2762478": 43,
+    "2878633": 32,
+    "2936917": 8,
+    "2957543": 15,
+    "3047926": 31,
+    "3077476": 45,
+    "3208598": 5,
+    "3338841": 86,
+    "3394940": 14,
+    "3413867": 4,
+    "3528507": 10,
+    "3537962": 3,
+    "3537998": 3,
+    "3538076": 2,
+    "3550740": 9,
+    "3586856": 3,
+    "3587163": 14,
+    "3587367": 6,
+    "3587502": 3,
+    "3587508": 80,
+    "3715037": 4,
+    "3715048": 2,
+    "3715104": 25,
+    "3715227": 3,
+    "3719595": 3,
+    "3752402": 10,
+    "3752403": 40,
+    "3756243": 6,
+    "3829772": 2,
+    "3854013": 6,
+    "3889507": 114,
+    "3933434": 1222,
+    "4470956": 131,
+    "4495758": 9,
+    "4699350": 2,
+    "4790044": 122,
+    "4836108": 6,
+    "4852647": 80,
+    "4887506": 42,
+    "4893542": 9,
+    "5092411": 7,
+    "5247293": 183,
+    "5314524": 11,
+    "5515830": 13,
+    "5581122": 5,
+    "5738362": 7,
+    "5785852": 12,
+    "5791738": 2,
+    "5885867": 24,
+    "5933983": 3,
+    "5964149": 53,
+    "6077118": 151,
+    "6080622": 27,
+    "6149275": 20,
+    "6338592": 2,
+    "6338668": 2,
+    "6344345": 93,
+    "6472126": 50,
+    "6586044": 4,
+    "6751527": 30,
+    "6950865": 314,
+    "6997744": 2,
+    "7060201": 39,
+    "7101249": 28,
+    "7142443": 12,
+    "7144202": 4,
+    "7153773": 6,
+    "7196558": 2,
+    "7254931": 3,
+    "7281359": 10,
+    "7357479": 4,
+    "7397552": 9,
+    "7423904": 3,
+    "7466689": 16,
+    "7503588": 6,
+    "7599890": 15,
+    "7641523": 4,
+    "7745762": 13,
+    "7923653": 11,
+    "7925265": 21,
+    "7975625": 74,
+    "8003045": 22,
+    "8074233": 6,
+    "8382463": 260,
+    "8528677": 57,
+    "8777945": 93,
+    "8905405": 2,
+    "8919189": 7,
+    "8920046": 19,
+    "8920049": 215,
+    "8920052": 82,
+    "9056023": 13,
+    "9336321": 184,
+    "9397081": 612,
+    "9461776": 35,
+    "9525630": 60,
+    "9621452": 3,
+    "9621782": 2,
+    "9622036": 9,
+    "9666518": 8,
+    "9787991": 36,
+    "9838475": 101,
+    "9980108": 6,
+    "10025424": 9,
+    "10139449": 32,
+    "10417355": 4,
+    "10449416": 12,
+    "10454537": 26,
+    "10664439": 4,
+    "10748329": 52,
+    "10748989": 36,
+    "10924012": 11,
+    "11141165": 3,
+    "11227885": 6,
+    "11335453": 10,
+    "11501998": 7,
+    "11637217": 202,
+    "11721986": 14,
+    "11754457": 12,
+    "12133057": 20,
+    "12211766": 30,
+    "12231817": 274,
+    "12293195": 2,
+    "12335144": 476,
+    "12395890": 56,
+    "12464278": 16,
+    "12466311": 27,
+    "12502244": 126,
+    "12518971": 9,
+    "12555382": 144,
+    "12595688": 20,
+    "12719368": 18,
+    "12852602": 26,
+    "12888318": 18,
+    "13073324": 44,
+    "13217560": 459,
+    "13217561": 298,
+    "13387850": 7,
+    "13516099": 207,
+    "13519632": 11,
+    "13570865": 145,
+    "13591088": 33,
+    "13630295": 11,
+    "13679538": 119,
+    "13807514": 13,
+    "13951488": 168,
+    "14019948": 9,
+    "14135876": 30,
+    "14149581": 4,
+    "14150426": 56,
+    "14152928": 15,
+    "14230665": 9,
+    "14326250": 3,
+    "14396325": 110,
+    "14437357": 2,
+    "14463316": 5,
+    "14558769": 2,
+    "14572842": 2,
+    "14603759": 32,
+    "14615396": 6,
+    "14699474": 3,
+    "14724997": 2,
+    "14729685": 38,
+    "14826318": 32,
+    "14904109": 3,
+    "14904259": 3,
+    "14904507": 5,
+    "14930914": 4,
+    "15034342": 11,
+    "15121959": 6,
+    "15177325": 97,
+    "15347301": 4,
+    "15377787": 75,
+    "15513601": 22,
+    "15560359": 15,
+    "15677359": 180,
+    "15816308": 3,
+    "15819366": 12,
+    "16080883": 11,
+    "16153216": 8,
+    "16207126": 9,
+    "16260531": 18,
+    "16399443": 22,
+    "16526550": 2,
+    "16535005": 46,
+    "16588221": 8,
+    "16646101": 14,
+    "16746463": 226,
+    "16766996": 34,
+    "16942247": 8,
+    "16981044": 4,
+    "16984127": 105,
+    "17000893": 10,
+    "17009974": 59,
+    "17077000": 6,
+    "17077010": 24,
+    "17077014": 4,
+    "17077020": 7,
+    "17134126": 11,
+    "17135866": 36,
+    "17211485": 27,
+    "17229851": 70,
+    "17284172": 4,
+    "17575106": 178,
+    "17602426": 14,
+    "17702537": 77,
+    "17765540": 4,
+    "17818037": 5,
+    "17908611": 145,
+    "18079742": 14,
+    "18237135": 32,
+    "18253420": 6,
+    "18253629": 8,
+    "18393723": 13,
+    "18641997": 59,
+    "18709487": 3,
+    "18720275": 48,
+    "18801679": 2,
+    "18801681": 6,
+    "18801687": 3,
+    "18801691": 2,
+    "18801703": 3,
+    "18801706": 2,
+    "18801721": 2,
+    "18801725": 6,
+    "18801740": 2,
+    "18801748": 3,
+    "18801751": 2,
+    "18801752": 3,
+    "18801765": 4,
+    "18801783": 5,
+    "18801787": 2,
+    "18801791": 2,
+    "18801797": 3,
+    "18801839": 2,
+    "18801848": 3,
+    "18801855": 2,
+    "18801856": 2,
+    "18801864": 2,
+    "18801888": 7,
+    "18837579": 322,
+    "18843547": 57,
+    "18872874": 3,
+    "18872900": 3,
+    "18874977": 6,
+    "18874978": 2,
+    "18987481": 6,
+    "19051421": 2,
+    "19051433": 2,
+    "19051797": 3,
+    "19051806": 2,
+    "19057776": 2,
+    "19063920": 4,
+    "19063921": 4,
+    "19063923": 2,
+    "19063924": 2,
+    "19120564": 65,
+    "19169916": 28,
+    "19235784": 2,
+    "19235801": 3,
+    "19235956": 2,
+    "19260778": 3,
+    "19312439": 3,
+    "19343904": 3,
+    "19363338": 2,
+    "19363367": 3,
+    "19515439": 5,
+    "19529070": 17,
+    "19562068": 6,
+    "19670412": 15,
+    "19756877": 11,
+    "19763970": 5,
+    "19766005": 16,
+    "19939870": 2,
+    "19939874": 3,
+    "19940012": 4,
+    "19940024": 3,
+    "19940104": 3,
+    "20019711": 15,
+    "20019713": 4,
+    "20044147": 3,
+    "20047231": 3,
+    "20063758": 6,
+    "20067716": 18,
+    "20141672": 15,
+    "20152987": 26,
+    "20203382": 6,
+    "20204832": 4,
+    "20214020": 2,
+    "20214572": 2,
+    "20215226": 3,
+    "20215467": 6,
+    "20215478": 2,
+    "20230956": 48,
+    "20231067": 2,
+    "20310067": 50,
+    "20330276": 53,
+    "20441862": 5,
+    "20528751": 19,
+    "20660381": 55,
+    "20706148": 6,
+    "20812200": 2,
+    "20812213": 2,
+    "20988564": 84,
+    "21066385": 8,
+    "21104257": 2,
+    "21176074": 16,
+    "21177559": 2,
+    "21177572": 4,
+    "21177574": 2,
+    "21177579": 3,
+    "21177584": 8,
+    "21312739": 2,
+    "21350257": 14,
+    "21350261": 25,
+    "21490744": 3,
+    "21530301": 17,
+    "21539906": 3,
+    "21555181": 2,
+    "21592128": 3,
+    "21610217": 106,
+    "21614322": 2,
+    "21674248": 5,
+    "21776915": 3,
+    "21776922": 14,
+    "21913241": 3,
+    "21913249": 3,
+    "21933910": 12,
+    "21944038": 3,
+    "21944060": 18,
+    "21944100": 2,
+    "21944105": 6,
+    "21960228": 7,
+    "21994079": 11,
+    "21994095": 2,
+    "22040687": 11,
+    "22041645": 19,
+    "22158251": 10,
+    "22218666": 2,
+    "22224841": 8,
+    "22230152": 4,
+    "22230288": 2,
+    "22246142": 23,
+    "22252959": 3,
+    "22258015": 2,
+    "22300549": 2,
+    "22301295": 11,
+    "22310673": 3,
+    "22310674": 36,
+    "22314589": 2,
+    "22318912": 2,
+    "22329158": 2,
+    "22358057": 121,
+    "22370581": 3,
+    "22377573": 61,
+    "22382948": 4,
+    "22386406": 2,
+    "22387375": 2,
+    "22414261": 67,
+    "22438439": 2,
+    "22448256": 2,
+    "22678615": 9,
+    "22772676": 3,
+    "22920105": 3,
+    "23041847": 8,
+    "23203634": 3,
+    "23211067": 35,
+    "23324341": 8,
+    "23471906": 41,
+    "23669887": 8,
+    "23799997": 32,
+    "23986921": 25,
+    "24376630": 11,
+    "24506293": 6,
+    "24668030": 19,
+    "25028882": 142,
+    "25145388": 7,
+    "25149702": 38,
+    "25184786": 7,
+    "25247735": 5,
+    "25343510": 2,
+    "25581174": 19,
+    "25583368": 4,
+    "25937520": 26,
+    "26219983": 85,
+    "26223973": 7,
+    "26345906": 17,
+    "26594070": 5,
+    "26718230": 3,
+    "26741888": 42,
+    "26852046": 31,
+    "26877353": 23,
+    "27150488": 23,
+    "27906972": 6,
+    "27922247": 7,
+    "28082576": 2,
+    "28640095": 3,
+    "28662306": 24,
+    "28797996": 2,
+    "28893310": 8,
+    "29180073": 56,
+    "29284737": 25,
+    "29492132": 2,
+    "29560761": 38,
+    "29793531": 10,
+    "29962932": 12,
+    "30125931": 44,
+    "30262306": 30,
+    "30328181": 9,
+    "30655649": 6,
+    "30780363": 2,
+    "30780383": 4,
+    "31065171": 6,
+    "31119526": 2,
+    "31119555": 2,
+    "31122179": 2,
+    "31123180": 4,
+    "31124353": 2,
+    "31138259": 2,
+    "31291647": 7,
+    "31292070": 3,
+    "31297520": 7,
+    "31583280": 2,
+    "31603763": 8,
+    "31687740": 3,
+    "31689507": 8,
+    "31689609": 2,
+    "31709167": 19,
+    "31737662": 2,
+    "31757092": 71,
+    "31782886": 108,
+    "31858045": 4,
+    "31959621": 2,
+    "32121389": 4,
+    "32199688": 2,
+    "32263728": 3,
+    "32270463": 2,
+    "32298784": 7,
+    "32324766": 2,
+    "32457726": 3,
+    "32499885": 3,
+    "32532964": 5,
+    "32540578": 11,
+    "32596098": 3,
+    "33119339": 4,
+    "33181326": 2,
+    "33308560": 8,
+    "33333581": 3,
+    "33564948": 141,
+    "33799967": 21,
+    "33887169": 7,
+    "34176124": 5,
+    "34202882": 3,
+    "34285497": 2,
+    "34347105": 16,
+    "34360349": 2,
+    "34391114": 3,
+    "34404083": 2,
+    "34511493": 13,
+    "34525184": 27,
+    "34547874": 4,
+    "34692496": 390,
+    "34735249": 11,
+    "34878629": 6,
+    "35115909": 4,
+    "35243586": 8,
+    "35330088": 3,
+    "35330090": 4,
+    "35464568": 7,
+    "35519768": 7,
+    "35544816": 87,
+    "35587668": 2,
+    "35808255": 4,
+    "35833453": 11,
+    "35861667": 3,
+    "35935769": 2,
+    "36052644": 10,
+    "36093538": 4,
+    "36099590": 7,
+    "36129651": 3,
+    "36157765": 27,
+    "36176883": 7,
+    "36179589": 2,
+    "36182566": 2,
+    "36213653": 4,
+    "36221699": 5,
+    "36222753": 4,
+    "36222771": 7,
+    "36222860": 8,
+    "36270057": 4,
+    "36332161": 9,
+    "36510187": 3,
+    "36530271": 19,
+    "36657336": 8,
+    "36728461": 3,
+    "36759901": 9,
+    "36869311": 17,
+    "36882530": 5,
+    "36963512": 15,
+    "37039227": 5,
+    "37039557": 2,
+    "37084542": 5,
+    "37084610": 4,
+    "37250790": 22,
+    "37319823": 3,
+    "37410947": 30,
+    "37424024": 2,
+    "37441560": 5,
+    "37441580": 7,
+    "37441592": 32,
+    "37441609": 3,
+    "37552012": 6,
+    "37557292": 10,
+    "37557304": 2,
+    "37557311": 2,
+    "37557316": 3,
+    "37557345": 2,
+    "37557421": 2,
+    "37626344": 9,
+    "37728047": 4,
+    "37823563": 3,
+    "37845096": 15,
+    "37859583": 2,
+    "37866190": 2,
+    "37878777": 3,
+    "37878782": 5,
+    "37878811": 2,
+    "37910175": 4,
+    "38028675": 3,
+    "38099750": 73,
+    "38223177": 2,
+    "38223192": 2,
+    "38223202": 5,
+    "38223213": 2,
+    "38223217": 5,
+    "38224017": 2,
+    "38242867": 2,
+    "38290446": 3,
+    "38362533": 2,
+    "38463639": 3,
+    "38467777": 2,
+    "38468499": 3,
+    "38619455": 5,
+    "38628264": 23,
+    "38668156": 2,
+    "38717440": 10,
+    "38803297": 22,
+    "38805803": 2,
+    "38821434": 3,
+    "38998943": 2,
+    "38999021": 2,
+    "39002953": 3,
+    "39312329": 5,
+    "39345909": 25,
+    "39481591": 2,
+    "39557450": 17,
+    "39600958": 5,
+    "39607062": 4,
+    "39628589": 15,
+    "39713617": 2,
+    "39713623": 4,
+    "39713640": 4,
+    "39734203": 7,
+    "39753692": 3,
+    "39754897": 4,
+    "39755028": 6,
+    "39791656": 3,
+    "39926384": 3,
+    "40032187": 5,
+    "40122569": 3,
+    "40186791": 2,
+    "40227413": 16,
+    "40254611": 2,
+    "40499100": 2,
+    "40570579": 2,
+    "40574834": 2,
+    "40612050": 2,
+    "40629629": 2,
+    "40778433": 5,
+    "40794994": 2,
+    "40908226": 2,
+    "40999350": 2,
+    "41051731": 4,
+    "41246038": 2,
+    "41282977": 2,
+    "41283078": 3,
+    "41386302": 5,
+    "41406395": 3,
+    "41650218": 3,
+    "42766990": 3,
+    "44709145": 2,
+    "45743959": 4,
+    "46259709": 2,
+    "46259727": 3,
+    "46616873": 2,
+    "46821860": 3,
+    "46822071": 4,
+    "47681839": 2,
+    "47681919": 2,
+    "48118724": 4,
+    "49314450": 5,
+    "49900661": 2,
+    "49901045": 2,
+    "50322645": 6
+  }
 }
