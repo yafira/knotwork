@@ -1,0 +1,363 @@
+{
+  "user": "yafira",
+  "name": "yafira ᝰ",
+  "synced": "2026-11-11",
+  "blocks": 951,
+  "channels": [
+    {
+      "s": "cute-technologies",
+      "t": "cute technologies",
+      "d": "cute technologies + craft",
+      "n": 184,
+      "u": "2026-10-21",
+      "c": "2022-11-03",
+      "th": [
+        "40499100/49cd3d91e78befeaeee175a0932f45f8.jpg",
+        "12231817/0a186b6c39fbd2d77981147b8c45348e.jpg",
+        "4852647/19b62999da4a74963c87f6fe24afc7c2.png"
+      ]
+    },
+    {
+      "s": "ctrl-textile",
+      "t": "ctrl+textile",
+      "d": "fiber arts + computation",
+      "n": 248,
+      "u": "2026-11-09",
+      "c": "2025-04-22",
+      "th": [
+        "50644040/6a74fa3f534d8ac93af719cb5eb4d942.jpeg",
+        "49314450/efb6757d3eb1a2dc5f4d5c385dacbd59.webp",
+        "48177256/607f1764d8feed1f2751b63618d44e41.jpeg"
+      ]
+    },
+    {
+      "s": "alt-os-w7bwdpsnh4y",
+      "t": "alt os",
+      "d": "alt operating systems",
+      "n": 33,
+      "u": "2026-06-25",
+      "c": "2025-04-26",
+      "th": [
+        "943474/00acc5706f86fdabd73a2793b0d2b9f9.png",
+        "9666518/73f2d2c1a233ee4710c8ca2e5184cedc.png",
+        "37424049/13cef23e52056d1f0d7e08d446339ea6.jpg"
+      ]
+    },
+    {
+      "s": "checkmate-joyrxvsko1m",
+      "t": "checkmate",
+      "d": "an ode to chess, my favorite game",
+      "n": 29,
+      "u": "2026-09-19",
+      "c": "2025-05-15",
+      "th": [
+        "40254611/b22dc3f3d8473d388df534a585cb64fa.jpg",
+        "39675260/dd874300923c7bbfd1aab7a5c1393c5a.jpg",
+        "20310067/54b73291459071a2425bbfd833b134b8.png"
+      ]
+    },
+    {
+      "s": "soft-computing-qsqjyw9wgwc",
+      "t": "soft computing",
+      "d": "soft computers, technologies, interfaces etc",
+      "n": 41,
+      "u": "2026-09-22",
+      "c": "2025-05-29",
+      "th": [
+        "49901045/3ecb3bc4a33ffa6e3c8b017cc63e4d68.jpeg",
+        "3752403/953e67160ea2e400f8086186dd603777.jpg",
+        "39312275/43ee252facfbb457fbb5f82318d02746.jpg"
+      ]
+    },
+    {
+      "s": "artyping",
+      "t": "artyping",
+      "d": "ASCII, art with text",
+      "n": 23,
+      "u": "2026-02-04",
+      "c": "2025-05-31",
+      "th": [
+        "43291900/ba1b2bc6eb8617ad1e28929b00fc2fe8.jpg",
+        "38334005/6b8a386a3d5faf48fc3c464440e5fc0f.jpg",
+        "38333993/6169143ae62c48e0fb73f1508fd20213.jpg"
+      ]
+    },
+    {
+      "s": "garden-of-nodes-and-links",
+      "t": "garden of nodes and links",
+      "d": "hypertext",
+      "n": 25,
+      "u": "2026-06-07",
+      "c": "2025-06-10",
+      "th": [
+        "4887506/a2860ba449c1633b22039f83b51b8b04.png",
+        "21555181/2a742cccc2f8f2c5c176d8356f5f496d.png",
+        "12555382/d69361ef4f296fb7444698316e3e7e2c.png"
+      ]
+    },
+    {
+      "s": "inputs-portals-interfaces",
+      "t": "inputs, portals, interfaces",
+      "d": "",
+      "n": 53,
+      "u": "2026-08-07",
+      "c": "2025-06-10",
+      "th": [
+        "49313928/64cacef762d2d90c65f73e345a266daa.jpeg",
+        "3208598/2d5ae9c5ca70d1ad363d81e0963211fb.jpg",
+        "17575106/ae256bbbd6bdde34448378905d102e67.jpg"
+      ]
+    },
+    {
+      "s": "of-bits-gates-and-logic",
+      "t": "of bits, gates and logic",
+      "d": "comp sci / eng / the stack beneath the screen",
+      "n": 33,
+      "u": "2026-10-09",
+      "c": "2025-06-20",
+      "th": [
+        "51216086/2b1678c5281fe2d47cfb52f944ad2c98.jpg",
+        "39734203/25ff9f00a7e9bd0b25d5c6dfb3b5f081.jpg",
+        "41504767/135abf2f47e6616068bf2da1f35a148e.jpg"
+      ]
+    },
+    {
+      "s": "poetronics",
+      "t": "poetronics",
+      "d": "poetic electronics reimagined",
+      "n": 33,
+      "u": "2026-10-05",
+      "c": "2025-06-20",
+      "th": [
+        "49463218/eb399c47591580e13f4bdb3fdc67db0c.jpeg",
+        "49463211/45c693298a9e11cfea7b063a39ac2aeb.png",
+        "49463192/88c3dd1d3673f075f8e9fab986f3fa28.png"
+      ]
+    },
+    {
+      "s": "tender-circuits",
+      "t": "tender circuits",
+      "d": "aka soft circuits aka e-textiles",
+      "n": 29,
+      "u": "2026-07-24",
+      "c": "2025-07-04",
+      "th": [
+        "48179057/0b49ce9180940d14b18894f07c933f86.jpeg",
+        "47232819/2056a9b3a1a6f8044ae1cdd81c0c9116.png",
+        "46617736/6dc8ea7713a72b7701e129aa7d2f0e0a.jpeg"
+      ]
+    },
+    {
+      "s": "bytes-and-bolts",
+      "t": "bytes and bolts",
+      "d": "hardware, all kinds",
+      "n": 31,
+      "u": "2026-09-08",
+      "c": "2025-07-19",
+      "th": [
+        "40910910/59f2e7401a5d42e0df82e140c92520c6.jpg",
+        "19051792/a8a46a946278912b64323fc3254fba7f.png",
+        "40612050/4fb2899fefb551d8a323742b2e4dfa54.jpg"
+      ]
+    },
+    {
+      "s": "temporal-mechanisms",
+      "t": "temporal mechanisms",
+      "d": "internet, time and memory",
+      "n": 23,
+      "u": "2026-06-10",
+      "c": "2025-09-17",
+      "th": [
+        "13591088/6e6027f6b37385d24c6e258f2ae60f60.png",
+        "41421862/6a0b6069cb20eb53d769e6b2a07a4243.jpg",
+        "40159841/f767d6350879f9793dc2c4c18b8bfb71.jpg"
+      ]
+    },
+    {
+      "s": "material-language-inoby4kwyk0",
+      "t": "material language",
+      "d": "print, form and process",
+      "n": 2,
+      "u": "2025-09-25",
+      "c": "2025-09-17",
+      "th": []
+    },
+    {
+      "s": "wandering-traces",
+      "t": "wandering traces",
+      "d": "circuitry, pathways, and marks that wander beyond function",
+      "n": 14,
+      "u": "2026-06-16",
+      "c": "2025-09-20",
+      "th": [
+        "36205714/f6efd62ab77c74ca346e233c892cd7c8.jpg",
+        "17009974/9c230e76413e7439850a69b96ff33bf4.png",
+        "22414261/8ffd091a63e99b495e5be6837758a28d.jpg"
+      ]
+    },
+    {
+      "s": "solar-powered-servers",
+      "t": "solar-powered servers",
+      "d": "",
+      "n": 15,
+      "u": "2026-10-22",
+      "c": "2025-10-24",
+      "th": []
+    },
+    {
+      "s": "electronic-text-9bez9uok3la",
+      "t": "electronic text",
+      "d": "poetic computation",
+      "n": 18,
+      "u": "2026-08-28",
+      "c": "2025-11-03",
+      "th": [
+        "49919187/f2701cee43729d49b5a3f8a26ec6687d.jpeg",
+        "49902112/7c5ba062d0ea8c88347de22c7153ffe8.png",
+        "49901012/bbfc0a2faf749041f04617f82bd34911.jpeg"
+      ]
+    },
+    {
+      "s": "miscellaneous-operators",
+      "t": "miscellaneous operators",
+      "d": "buttons as algorithms, digits as memory; handheld and domestic machines of arithmetic.",
+      "n": 8,
+      "u": "2026-11-11",
+      "c": "2025-11-06",
+      "th": [
+        "49900647/20fbe99c51e5f53abaa6a94262ed7f50.jpeg",
+        "49902177/507ab06b38a11b0565ef7c8a21d4dc85.jpeg",
+        "49900661/e0f5cd666a49698c18ed776d0e1dc57a.jpeg"
+      ]
+    },
+    {
+      "s": "web-as-art-space-and-play",
+      "t": "web as art, space and play",
+      "d": "romanticizing the web",
+      "n": 51,
+      "u": "2026-09-14",
+      "c": "2025-11-12",
+      "th": [
+        "33308560/1a97aa71b30543dc813895b08d88548d.jpg"
+      ]
+    },
+    {
+      "s": "soft-and-cute-robotics",
+      "t": "soft (and cute) robotics",
+      "d": "",
+      "n": 11,
+      "u": "2025-12-06",
+      "c": "2025-11-16",
+      "th": [
+        "21944060/2b4e52ebb96184a4f41704cb3bb3ea88.jpg",
+        "41137283/2192ba7fc63fa47af06e0b7114b3e405.jpg",
+        "41137205/f6a5bb0e36385bf6668b1c89cb8478cb.jpg"
+      ]
+    },
+    {
+      "s": "hand-held-tools",
+      "t": "hand held tools",
+      "d": "",
+      "n": 5,
+      "u": "2026-09-26",
+      "c": "2025-12-05",
+      "th": []
+    },
+    {
+      "s": "the-soft-computer",
+      "t": "the soft computer",
+      "d": "NYU-ITP thesis research",
+      "n": 9,
+      "u": "2026-06-06",
+      "c": "2026-01-15",
+      "th": [
+        "46617768/f51c73758d5eabc595c7af23d69a89e4.png",
+        "44828220/2db624dd272c7da77511dbe71c234696.jpg",
+        "44828217/1d385ba3167a0c1c07013ff1cd46c324.jpg"
+      ]
+    },
+    {
+      "s": "open-sourcery",
+      "t": "open sourcery",
+      "d": "",
+      "n": 9,
+      "u": "2026-01-18",
+      "c": "2026-01-17",
+      "th": []
+    },
+    {
+      "s": "cyberdeck-exe-9tnkemv_c50",
+      "t": "cyberdeck.exe",
+      "d": "soft systems, cyberdeck inspo, and experiments by two softies",
+      "n": 30,
+      "u": "2026-08-05",
+      "c": "2026-05-17",
+      "th": [
+        "46263069/c4e89a8f9e66da49f1142be91caea893.jpeg",
+        "21177572/7b41e0d5cf16bfe4e64ab3778b86e13f.jpg",
+        "21776922/fa0ade46e71cdac9907567e568a6c7a0.jpg"
+      ]
+    },
+    {
+      "s": "tiny-computers",
+      "t": "tiny computers",
+      "d": "",
+      "n": 8,
+      "u": "2026-08-12",
+      "c": "2026-06-07",
+      "th": [
+        "49314205/bd2f8a4e76d1dc0559ecbdc8215b348e.jpeg",
+        "46821891/f198a9813915a1b6404cb897adb0cfca.jpeg",
+        "46821884/b76364710c787c0952e99bd4146a9ba1.jpeg"
+      ]
+    },
+    {
+      "s": "s-nime",
+      "t": "s-nime",
+      "d": "soft, new interfaces for musical expression",
+      "n": 3,
+      "u": "2026-07-12",
+      "c": "2026-07-07",
+      "th": [
+        "47681853/67d326ca290779384b93d1614f59f14b.jpeg"
+      ]
+    }
+  ],
+  "threads": [
+    [
+      "cute-technologies",
+      "cyberdeck-exe-9tnkemv_c50",
+      9
+    ],
+    [
+      "tender-circuits",
+      "cyberdeck-exe-9tnkemv_c50",
+      3
+    ],
+    [
+      "ctrl-textile",
+      "cyberdeck-exe-9tnkemv_c50",
+      1
+    ],
+    [
+      "the-soft-computer",
+      "cyberdeck-exe-9tnkemv_c50",
+      1
+    ],
+    [
+      "cute-technologies",
+      "soft-and-cute-robotics",
+      1
+    ],
+    [
+      "soft-computing-qsqjyw9wgwc",
+      "poetronics",
+      1
+    ],
+    [
+      "web-as-art-space-and-play",
+      "hand-held-tools",
+      1
+    ]
+  ]
+}
